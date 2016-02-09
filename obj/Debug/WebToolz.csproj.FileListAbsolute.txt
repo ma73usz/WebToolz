@@ -1,0 +1,6 @@
+c:\users\mateusz\documents\visual studio 2013\Projects\WebToolz\WebToolz\bin\WebToolz.dll.config
+c:\users\mateusz\documents\visual studio 2013\Projects\WebToolz\WebToolz\bin\WebToolz.dll
+c:\users\mateusz\documents\visual studio 2013\Projects\WebToolz\WebToolz\bin\WebToolz.pdb
+c:\users\mateusz\documents\visual studio 2013\Projects\WebToolz\WebToolz\obj\Debug\WebToolz.dll
+c:\users\mateusz\documents\visual studio 2013\Projects\WebToolz\WebToolz\obj\Debug\WebToolz.pdb
+C:\Users\Mateusz\documents\visual studio 2013\Projects\WebToolz\WebToolz\obj\Debug\WebToolz.csprojResolveAssemblyReference.cache

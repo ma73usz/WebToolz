@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="WebToolz.Admin" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-inverse" runat="server">
+            <div class="navbar-header" runat="server">
+                <a class="navbar-brand" href="#">
+                     <a class="navbar-brand" href="#">WebToolz</a>
+                </a>
+            </div>
+            <p class="navbar-text navbar-right ">Signed in as: <a href="#" class="navbar-link">Foukan</a></p>
+            <div class="container" runat="server">
+                <ul class="nav navbar-nav">
+                    <li><a href="WhosOnline.aspx">Who's online</a></li>
+                    <li><a href="CharactersInfo.aspx">Characters Info</a></li>
+                    <li><a href="Statictics.aspx">Statistics</a></li>
+                    <li><a href="Guilds.aspx">Guilds</a></li>
+                    <li><a href="MailBox.aspx">Mail Box</a></li>    
+                </ul>
+            </div>
+        </nav>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

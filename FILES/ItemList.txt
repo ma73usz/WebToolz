@@ -1,0 +1,3414 @@
+1;Upgrade Core (High) 
+2;Force Core (High) 
+3;HP Potion (Lv. 1) 
+4;HP Potion (Lv. 2) 
+5;HP Potion (Lv. 3) 
+6;MP Potion (Lv. 1) 
+7;MP Potion (Lv. 2) 
+8;MP Potion (Lv. 3) 
+9;Upgrade Core (Low) 
+10;Upgrade Core (Medium) 
+11;SP Potion 
+12;Return Stone 
+13;Money 
+14;Item Box 
+15;Training Orb 
+30;Training Crystal 
+45;Training Katana 
+60;Training Blade 
+75;Training Daikatana 
+90;Training Great Sword 
+16;Crude Orb 
+31;Crude Crystal 
+46;Katana 
+61;Blade 
+76;Daikatana 
+91;Greatsword 
+17;Red Orb 
+32;Red Crystal 
+47;Iron Katana 
+62;Iron Blade 
+77;Iron Daikatana 
+92;Iron Great Sword 
+18;Coraleye Orb 
+33;Coraleye Crystal 
+48;Damascus Katana 
+63;Damascus Blade 
+78;Damascus Daikatana 
+93;Damascus Great Sword 
+19;Citrine Orb 
+34;Citrine Crystal 
+49;Shadowsteel Katana 
+64;Shadowsteel Blade 
+79;Shadowsteel Daikatana 
+94;Shadowsteel Great Sword 
+20;Bluestin Orb 
+35;Bluestin Crystal 
+50;Bluestin Katana 
+65;Bluestin Blade 
+80;Bluestin Daikatana 
+95;Bluestin Great Sword 
+21;Pherystin Orb 
+36;Pherystin Crystal 
+51;Titanium Katana 
+66;Titanium Blade 
+81;Titanium Daikatana 
+96;Titanium Great Sword 
+22;Aqua Orb 
+37;Aqua Crystal 
+52;Shadowtitanium Katana 
+67;Shadowtitanium Blade 
+82;Shadowtitanium Daikatana 
+97;Shadowtitanium Great Sword 
+23;Lapis Orb 
+38;Lapis Crystal 
+53;Osmium Katana 
+68;Osmium Blade 
+83;Osmium Daikatana 
+98;Osmium Great Sword 
+24;Topaz Orb 
+39;Topaz Crystal 
+54;Redosmium Katana 
+69;Redosmium Blade 
+84;Redosmium Daikatana 
+99;Redosmium Great Sword 
+25;Mithril Orb 
+40;Mithril Crystal 
+55;Mithril Katana 
+70;Mithril Blade 
+85;Mithril Daikatana 
+100;Mithril Great Sword 
+26;Archridium Orb 
+41;Archridium Crystal 
+56;Blue Mithril Katana 
+71;Blue Mithril Blade 
+86;Blue Mithril Daikatana 
+101;Blue Mithril Great Sword 
+27;Archridium Orb 
+42;Archridium Crystal 
+57;Archridium Katana 
+72;Archridium Blade 
+87;Archridium Daikatana 
+102;Archridium Great Sword 
+28;Chaos Orb 
+43;Chaos Crystal 
+58;Chaos Katana 
+73;Chaos Blade 
+88;Chaos Daikatana 
+103;Chaos Great Sword 
+29;SaHilu Orb 
+44;SaHilu Crystal 
+59;SaHilu Katana 
+74;SaHilu Blade 
+89;SaHilu Daikatana 
+104;SaHilu Great Sword 
+105;Training Armorsuit 
+120;Training Battlesuit 
+135;Training Martialsuit 
+150;Training Armorgloves 
+165;Training Battlegloves 
+180;Training Martialgloves 
+195;Training Armorboots 
+210;Training Battleboots 
+225;Training Martialboots 
+240;Training Armorhelm 
+255;Training Battlehelm 
+270;Training Martialhelm 
+106;Armor Suits 
+121;Battle Suits 
+136;Martial Suits 
+151;Armor Gloves 
+166;Battle Gloves 
+181;Martial Gloves 
+196;Armor Boots 
+211;Battle Boots 
+226;Martial Boots 
+241;Armor Helmets 
+256;Battle Helmets 
+271;Martial Helmets 
+107;Reinforced Armorsuit 
+122;Reinforced Battlesuit 
+137;Reinforced Martialsuit 
+152;Reinforced Armorgloves 
+167;Reinforced Battlegloves 
+182;Reinforced Martialgloves 
+197;Reinforced Armorboots 
+212;Reinforced Battleboots 
+227;Reinforced Martialboots 
+242;Reinforced Armorhelm 
+257;Reinforced Battlehelm 
+272;Reinforced Martialhelm 
+108;Iron Armorsuit 
+123;Silk Battlesuit 
+138;Silk Martialsuit 
+153;Iron Armorgloves 
+168;Silk Battlegloves 
+183;Silk Martialgloves 
+198;Iron Armorboots 
+213;Silk Battleboots 
+228;Silk Martialboots 
+243;Iron Armorhelm 
+258;Silk Battlehelm 
+273;Silk Martialhelm 
+109;Shadowsteel Armorsuit 
+154;Shadowsteel Armorgloves 
+199;Shadowsteel Armorboots 
+244;Shadowsteel Armorhelm 
+124;Aramid Battlesuit 
+169;Aramid Battlegloves 
+214;Aramid Battleboots 
+259;Aramid Battlehelm 
+139;Aramid Martialsuit 
+184;Aramid Martialgloves 
+229;Aramid Martialboots 
+274;Aramid Martialhelm 
+110;Bluestin Armorsuit 
+155;Bluestin Armorgloves 
+200;Bluestin Armorboots 
+245;Bluestin Armorhelm 
+125;Bluestin Battlesuit 
+170;Bluestin Battlegloves 
+215;Bluestin Battleboots 
+260;Bluestin Battlehelm 
+140;Bluestin Martialsuit 
+185;Bluestin Martialgloves 
+230;Bluestin Martialboots 
+275;Bluestin Martialhelm 
+111;Titanium Armorsuit 
+156;Titanium Armorgloves 
+201;Titanium Armorboots 
+246;Titanium Armorhelm 
+126;Titanium Battlesuit 
+171;Titanium Battlegloves 
+216;Titanium Battleboots 
+261;Titanium Battlehelm 
+141;Titanium Martialsuit 
+186;Titanium Martialgloves 
+231;Titanium Martialboots 
+276;Titanium Martialhelm 
+112;Osmium Armorsuit 
+157;Osmium Armorgloves 
+202;Osmium Armorboots 
+247;Osmium Armorhelm 
+127;Osmium Battlesuit 
+172;Osmium Battlegloves 
+217;Osmium Battleboots 
+262;Osmium Battlehelm 
+142;Osmium Martialsuit 
+187;Osmium Martialgloves 
+232;Osmium Martialboots 
+277;Osmium Martialhelm 
+113;Shineguard Plate (WA) 
+114;Shineguard Plate (FS) 
+158;Shineguard Gauntlet (WA) 
+159;Shineguard Gauntlet (FS) 
+203;Shineguard Greaves (WA) 
+204;Shineguard Greaves (FS) 
+248;Shineguard Visor (WA) 
+249;Shineguard Visor (FS) 
+128;Teragrace Coat (FB) 
+129;Teragrace Coat (FA) 
+173;Teragrace gloves (FB) 
+174;Teragrace gloves (FA)  
+218;Teragrace boots (FB) 
+219;Teragrace boots (FA) 	
+263;Teragrace Headgear (FB) 
+264;Teragrace Headgear (FA) 
+143;Mystic Suit (BL) 
+144;Mystic Suit (WI) 
+188;Mystic Hands (BL) 
+189;Mystic Hands (WI) 
+233;Mystic Shoes (BL) 
+234;Mystic Shoes (WI) 
+278;Mystic Headpiece (BL) 
+279;Mystic Headpiece (WI) 
+115;Mithril Plate (WA) 
+116;Mithril Plate (FS) 
+160;Mithril Gauntlet (WA) 
+161;Mithril Gauntlet (FS) 
+205;Mithril Greaves (WA) 
+206;Mithril Greaves (FS) 
+250;Mithril Visor (WA) 
+251;Mithril Visor (FS) 
+130;Mithril Coat (FB) 
+131;Mithril Coat (FA) 
+175;Mithril gloves (FB) 
+176;Mithril gloves (FA) 
+220;Mithril boots (FB) 
+221;Mithril boots (FA) 
+265;Mithril Headgear (FB) 
+266;Mithril Headgear (FA) 
+145;Mithril Suit (BL) 
+146;Mithril Suit (WI) 
+190;Mithril Hands (BL) 
+191;Mithril Hands (WI) 
+235;Mithril Shoes (BL) 
+236;Mithril Shoes (WI) 
+280;Mithril Headpiece (BL) 
+281;Mithril Headpiece (WI) 
+117;Archridium Plate (WA) 
+118;Archridium Plate (FS) 
+162;Archridium Gauntlet (WA) 
+163;Archridium Gauntlet (FS) 
+207;Archridium Greaves (WA) 
+208;Archridium Greaves (FS) 
+252;Archridium Visor (WA) 
+253;Archridium Visor (FS) 
+132;Archridium Coat (FB) 
+133;Archridium Coat (FA) 
+177;Archridium gloves (FB) 
+178;Archridium gloves (FA) 
+222;Archridium boots (FB) 
+223;Archridium boots (FA) 
+267;Archridium Headgear (FB) 
+268;Archridium Headgear (FA) 
+147;Archridium Suit (BL) 
+148;Archridium Suit (WI) 
+192;Archridium Hands (BL) 
+193;Archridium Hands (WI) 
+237;Archridium Shoes (BL) 
+238;Archridium Shoes (WI) 
+282;Archridium Headpiece (BL) 
+283;Archridium Headpiece (WI) 
+134;Absolute Battlesuit 	
+179;Absolute Battlegloves 
+224;Absolute Battleboots 
+269;Absolute Battlehelm 
+119;Absolute Armorsuit 
+164;Absolute Armorgloves 
+209;Absolute Armorboots 
+254;Absolute Armorhelm 
+149;Absolute Martialsuit 
+194;Absolute Martialgloves 
+239;Absolute Martialboots 
+284;Absolute Martialhelm 
+285;Ring of Fighter 
+286;Ring of Fighter +1 
+287;Ring of Fighter +2 
+288;Ring of Fighter +3 
+289;Ring of Fighter +4 
+290;Ring of Fighter +5 
+291;Ring of Fighter +6 
+292;Ring of Fighter +7 
+293;Ring of Sage 
+294;Ring of Sage +1 
+295;Ring of Sage +2 
+296;Ring of Sage +3 
+297;Ring of Sage +4 
+298;Ring of Sage +5 
+299;Ring of Sage +6 
+300;Ring of Sage +7 
+301;Ring of Champion 
+302;Ring of Champion +1 
+303;Ring of Champion +2 
+304;Ring of Champion +3 
+305;Ring of Champion +4 
+306;Ring of Champion +5 
+307;Ring of Champion +6 
+308;Ring of Champion +7 
+309;Critical Ring 
+310;Critical Ring +1 
+311;Critical Ring +2 
+312;Ring of Luck 
+313;Ring of Luck +1 
+314;Ring of Luck +2 
+315;Force Absorb Ring 
+316;Force Absorb Ring +1 
+317;Force Absorb Ring +2 
+318;Life Absorb Ring 
+319;Life Absorb Ring +1 
+320;Life Absorb Ring +2 
+321;Life Absorb Ring +3 
+322;Mana Absorb Ring 
+323;Mana Absorb Ring +1 
+324;Mana Absorb Ring +2 
+325;Mana Absorb Ring +3 
+326;Ring Of Fighter +8 
+327;Ring Of Fighter +9 
+328;Ring Of Fighter +10 
+329;Ring Of Sage +8 
+330;Ring Of Sage +9 
+331;Ring Of Sage +10 
+332;Ring Of Champion +8 
+333;Ring Of Champion +9 
+334;Ring Of Champion +10 
+335;Force Absorb Ring +3 
+336;Force Absorb Ring +4 
+337;Force Absorb Ring +5 
+338;Ring Of Seven Coins 
+339;Ring Of Seven Coins +1 
+340;Ring Of Seven Coins +2 
+341;Ring Of Seven Coins +3 
+342;Ring Of Seven Coins +4 
+343;Ring Of Seven Coins +5 
+344;Ring Of Seven Coins +6 
+345;Ring Of Seven Coins +7 
+346;Adept Ring 
+347;Adept Ring +1 
+348;Adept Ring +2 
+349;Adept Ring +3 
+350;Amulet of Strength 
+351;Power Amulet 
+352;Ogre Power Amulet 
+353;Atlas Amulet 
+354;Amulet of Intelligence 
+355;Smart Amulet 
+356;Genius Amulet 
+357;Enlightenment Amulet 
+358;Amulet of Dexterity 
+359;Fast Amulet 
+360;Rapid Amulet 
+361;Quickness Amulet 
+362;Amulet Of Bless 
+363;Amulet Of Bless +1 
+364;Amulet Of Bless +2 
+365;Amulet Of Bless +3 
+366;Force Regeneration Amulet 
+367;Force Regeneration Amulet +1 
+368;Force Regeneration Amulet +2 
+369;Life Regeneration Amulet 
+370;Life Regeneration Amulet +1 
+371;Life Regeneration Amulet +2 
+372;Mana Regeneration Amulet 
+373;Mana Regeneration Amulet +1 
+374;Mana Regeneration Amulet +2 
+375;Revive Amulet 
+376;Revive Amulet +1 
+377;Amulet Of Guard 
+378;Amulet Of Guard +1 
+379;Amulet Of Guard +2 
+380;Amulet Of Guard +3 
+381;Amulet Of Guard +4 
+382;Amulet Of Guard +5 
+383;Amulet Of Guard +6 
+384;Amulet Of Guard +7 
+385;Amulet Of Guard +8 
+386;Amulet Of Guard +9 
+387;Amulet Of Guard +10 
+388;Force Regeneration Amulet +3 
+389;Force Regeneration Amulet +4 
+390;Force Regeneration Amulet +5 
+391;Force Regeneration Amulet +6 
+392;Force Regeneration Amulet +7 
+393;Amulet Of Seven Coins 
+394;Amulet Of Seven Coins +1 
+395;Amulet Of Seven Coins +2 
+396;Amulet Of Seven Coins +3 
+397;Amulet Of Seven Coins +4 
+398;Amulet Of Seven Coins +5 
+399;Amulet Of Seven Coins +6 
+400;Amulet Of Seven Coins +7 
+401;Amulet Of Pain 
+402;Amulet Of Pain +1 
+403;Amulet Of Pain +2 
+404;Amulet Of Pain +3 
+405;Amulet Of Pain +4 
+406;Amulet Of Pain +5 
+407;Amulet Of Pain +6 
+408;Amulet Of Pain +7 
+409;Epaulet of Guardian 
+410;Epaulet of Guardian +1 
+411;Epaulet of Guardian +2 
+412;Epaulet of Guardian +3 
+413;Epaulet of Guardian +4 
+414;Epaulet of Guardian +5 
+415;Epaulet of Guardian +6 
+416;Epaulet of Guardian +7 
+417;Life Regeneration Epaulet 
+418;Life Regeneration Epaulet +1 
+419;Life Regeneration Epaulet +2 
+420;Mana Regeneration Epaulet 
+421;Mana Regeneration Epaulet +1 
+422;Mana Regeneration Epaulet +2 
+423;Fortune Epaulet 
+424;Fortune Epaulet +1 
+425;Hiding Eapulet 
+426;Epaulet of Fighter +7 
+427;Epaulet of Sage +7 
+428;Epaulet of Fighter +5 
+429;Epaulet of Fighter +6 
+430;Epaulet of Sage +5 
+431;Epaulet of Sage +6 
+432;NightWalkers (Armorset) 
+433;NightWalkers (Battleset) 
+434;NightWalkers (Martialset) 
+435;Epaulets 
+436;Broken CoreS 
+437;Astral Bikecard - Type: Blue 
+438;LatterN 
+439;Astral Bikecard - Type: RW3 
+440;ScrollN 
+441;ParchmentN 
+442;LeatherS 
+443;Sword PieceS 
+444;Sword PieceN 
+445;HornS 
+446;KeyN 
+447;NecklaceS 
+448;BoxS 
+449;ScaleS 
+450;BottleN 
+451;EggS 
+452;ShoeS 
+453;LeafS 
+454;Present BoxN 
+455;MineralS 
+456;FruitS 
+457;ThornS 
+458;AxS 
+459;ShellS 
+460;Red QuartzS 
+461;Crude QuartzS 
+462;Aquq QuartzS 
+463;Broken QuartzS 
+464;Astral Board Card - X Steelblue 
+465;BookN 
+466;Quest Armor GloveS 
+467;Quest Battle GloveS 
+468;Quest Martial GloveS 
+469;Quest Upgrade CoreS 
+470;Quest Force CoreS 
+471;EmblemS 
+472;CobwebS 
+473;Warp CardN 
+474;Quest Armor GloveN 
+475;Quest Battle GloveN 
+476;Quest Martial GloveN 
+477;Astral Board Card - X Yellow 
+478;BottleS 
+479;ScrollS 
+480;Astral Board Card - X3 White 
+481;LeatherN 
+482;Astral Board Card - X2 Blue 
+483;Astral Board Card - X Green 
+484;Aquq QuartzN 
+485;B.I. CertificateN 
+486;D.S. CertificateN 
+487;G.D. CertificateN 
+488;MineralN 
+489;NecklaceN 
+490;ShoeN 
+491;Blue CoreN 
+492;Red CoreN 
+493;Green CoreN 
+494;Yellow CoreN 
+495;Precious CardN 
+496;CircuitN 
+497;Card PieceN 
+498;Magic RelicN 
+499;CaneN 
+500;ShackleN 
+501;FruitN 
+502;BoneN 
+503;EyeballN 
+504;EggN 
+505;BoxN 
+506;FeatherS 
+507;Astral Board Card - X2 Red 
+508;CardS 
+509;SoilS 
+510;LeafN 
+511;MeatS 
+512;ForcepsS 
+513;Feather (B)S 
+514;ShellfishS 
+515;Metallic PieceS 
+516;NucleusS 
+517;Mech-LegS 
+518;Mech-HeadS 
+519;Mech-Big HandS 
+520;Mech-HandS 
+521;Mech-HumpS 
+522;Mach-BackS 
+523;Mech-MouthS 
+524;Mech-WingS 
+525;Golem CookieN 
+526;Ugly Troll 
+527;Pretty House 
+528;Mecha-BowS 
+529;Mechzard-HandS 
+530;Mech-TailS 
+531;Mechhealer-HeadS 
+532;OPDollS 
+533;EXDollS 
+534;Mander DollS 
+535;Zard DollS 
+536;Ape DollS 
+537;Ape Archer DollS 
+538;Buffalo DollS 
+539;Bird DollS 
+540;Dog DollS 
+541;Scale (B)S 
+542;ToothS 
+543;D.T. (D Grade/Single) 
+544;D.T. (C Grade/Single) 
+545;D.T. (B Grade/Single) 
+546;D.T. (A Grade/Single) 
+547;D.T. (AA Grade/Single) 
+548;D.T. (AAA Grade/Single) 
+549;D.T. (X Grade/Single) 
+550;D.T. (D Grade/Party) 
+551;D.T. (C Grade/Party) 
+552;D.T. (B Grade/Party) 
+553;D.T. (A Grade/Party) 
+554;D.T. (AA Grade/Party) 
+555;D.T. (AAA Grade/Party) 
+556;D.T. (X Grade/Party) 
+557;Dungeon Doll 
+558;Gate Wqy 
+559;Auto Trap 
+560;Formula Card (Event) 
+561;I am GM 
+562;TailS 
+563;LegS 
+564;BoneS 
+565;Mana ReadS 
+566;BookS 
+567;Black RingN 
+568;Quest ItemN 
+569;ParchmentS 
+570;Red QuartzN 
+571;Crude QuartzN 
+572;FeatherN 
+573;Necklace 2 
+574;Duplicate Ring 
+575;Christmas Tree 
+576;Bike CardS 
+577;StoneS 
+578;Map PartN 
+579;Extract Potion (STR) 
+580;Extract Potion (DEX) 
+581;Extract Potion (INT) 
+582;Force Core (Low) 
+583;Force Core (Medium) 
+584;Bike Coating Kit (Blue) 
+585;SoilN 
+586;ShellN 
+587;ArrowS 
+588;ArrowN 
+589;Broken QuartzN 
+590;Machine PartS 
+591;Machine PartN 
+592;StoneN 
+593;Metallic PieceN 
+594;CobwebN 
+595;ScaleN 
+596;NucleusN 
+597;Scale (B)N 
+598;ToothN 
+599;GaugeS 
+600;GaugeN 
+601;Epaulet of the DeadN 
+602;Buffalo Doll N 
+603;Feather (B)N 
+604;Sweet Candy 
+605;Quartz Core (Citrine) 
+606;Quartz Core (Bluestin) 
+607;Quartz Core (Pherystin) 
+608;Quartz Core (Aqua) 
+609;Quartz Core (Lapis) 
+610;Quartz Core (Topaz) 
+611;Quartz Core (Mithril) 
+612;Quartz Core (Blue Mithril) 
+613;Quartz Core (Lycanus) 
+614;Quartz Core (Archridium) 
+615;Material Core (Aramid) 
+616;Material Core (Shadowsteel) 
+617;Material Core (Bluestin) 
+618;Material Core (Titanium) 
+619;Material Core (Shadowtitanium) 
+620;Material Core (Osmium) 
+621;Material Core (Redosmium) 
+622;Material Core (Mithril) 
+623;Material Core (Blue Mithril) 
+624;Material Core (Drei Frame) 
+625;Material Core (Archridium) 
+626;Formula Cards 
+627;Formula Card (Instant) 
+628;Upgrade Core (Piece) 
+629;Force Core (Piece) 
+630;Upgrade Core (Crystal) 
+631;Force Core (Crystal) 
+632;Perfect Core (Highest) 
+633;Plasma Circuit 
+634;Plasma Plug 
+635;Extender Circuit 
+636;Perfect Coating Kit 
+637;Slot Extender (Low) 
+638;Slot Extender (Medium) 
+639;Slot Extender (High) 
+640;Core Alchemic Transmuter (Sword) 
+641;Core Alchemic Transmuter (Armorset) 
+642;Core Alchemic Transmuter (Battleset) 
+643;Core Alchemic Transmuter (Martialset) 
+644;Core Alchemic Transmuter (Artifact) 
+645;Red BottleN 
+646;Goodluck Potion[ALZ] (Lv. 3) 
+647;Goodluck Potion[ALZ] (Lv. 1) 
+648;Fury Potion (Lv. 1) 
+649;Fury Potion (Lv. 2) 
+650;Fury Potion (Lv. 3) 
+651;Party Epaulet 
+652;Greatsword1N 
+653;Halberd1N 
+654;Glory Potion (Lv. 1) 
+655;Glory Potion (Lv. 2) 
+656;Glory Potion (Lv. 3) 
+657;Concentraion Potion (Lv. 1) 
+658;Reflex Potion (Lv. 1) 
+659;Vital Potion (Lv. 1) 
+660;Sharpness Potion (Lv. 1) 
+661;Mana Condense Potion (Lv. 1) 
+662;Vital Regen. Potion (Lv. 1) 
+663;Force Regen. Potion (Lv. 1) 
+664;Hardness Potion (Lv. 1) 
+665;Strike Potion (Lv. 1) 
+666;Critical Potion (Lv. 1) 
+667;Crushing Potion (Lv. 1) 
+668;Skill Potion (Lv. 1) 
+669;Goodluck Potion[ALZ] (Lv. 2) 
+670;Party Epaulet +1 
+671;Party Epaulet +2 
+672;Sword Master Potion 
+673;Magic Master Potion 
+674;Evasion Potion 
+675;C.A. License 
+676;Circuit Jewel (Lv. 1) 
+677;Circuit Jewel (Lv. 2) 
+678;Circuit Jewel (Lv. 3) 
+679;Circuit Jewel (Lv. 4) 
+680;Circuit Jewel (Lv. 5) 
+681;Circuit Jewel (Lv. 6) 
+682;Plate of Honor 
+683;Flame Disc 
+684;Dark Disc 
+685;Holy Disc 
+686;Air Disc 
+687;Thunder Disc 
+688;Bloody Disc 
+689;Earth Disc 
+690;Aqua Disc 
+691;Soul Disc 
+692;Shape Cartridges 
+693;Ring Of Brute 
+694;Ring Of Brute +1 
+695;Ring Of Brute +2 
+696;Ring Of Brute +3 
+697;Ring Of Serenity 
+698;Ring Of Serenity +1 
+699;Ring Of Serenity +2 
+700;Ring Of Serenity +3 
+701;Extortion Ring 
+702;Extortion Ring +1 
+703;Extortion Ring +2 
+704;Extortion Ring +3 
+705;Extortion Ring +4 
+706;Extortion Ring +5 
+707;Adept Amulet 
+708;Adept Amulet +1 
+709;Adept Amulet +2 
+710;Adept Amulet +3 
+711;Vampiric Amulet 
+712;Vampiric Amulet +1 
+713;Vampiric Amulet +2 
+714;Vampiric Amulet +3 
+715;Vampiric Amulet +4 
+716;Vampiric Amulet +5 
+717;Vampiric Amulet +6 
+718;Amulet Of Battler 
+719;Amulet Of Battler +1 
+720;Amulet Of Battler +2 
+721;Amulet Of Battler +3 
+722;Amulet Of Battler +4 
+723;Amulet Of Battler +5 
+724;Amulet Of Battler +6 
+725;Amulet Of Battler +7 
+726;Amulet Of Battler +8 
+727;Amulet Of Battler +9 
+728;Ring of Proof 
+729;Ring of Proof +1 
+730;Ring of Proof +2 
+731;Ring of Proof +3 
+732;Ring of Proof +4 
+733;Ring of Proof +5 
+734;Ring of Proof +6 
+735;Ring of Proof +7 
+736;Amulet of Proof 
+737;Amulet of Proof +1 
+738;Amulet of Proof +2 
+739;Amulet of Proof +3 
+740;Amulet of Proof +4 
+741;Amulet of Proof +5 
+742;Amulet of Proof +6 
+743;Amulet of Proof +7 
+744;Epaulet of Proof 
+745;Epaulet of Proof +1 
+746;Epaulet of Proof +2 
+747;Epaulet of Proof +3 
+748;Epaulet of Proof +4 
+749;Epaulet of Proof +5 
+750;Epaulet of Proof +6 
+751;Epaulet of Proof +7 
+752;Glowing JewelS 
+753;Yellow PowderS 
+754;Red PowderS 
+755;ReflexStoneS 
+756;Yellow JewelS 
+757;Silver JewelS 
+758;CircuitS 
+759;Red LiquidS 
+760;Blue LiquidS 
+761;Epaulet of Fighter +3 
+762;Epaulet of Sage +3 
+763;Epaulet of Fighter +4 
+764;Epaulet of Sage +4 
+765;Curse Resist Potion 
+766;Freezing Oil 
+767;Lightning Oil 
+768;Freezing Resist Potion 
+769;Lightning Resist Potion 
+770;Mass Concentraion Potion 
+771;Mass Reflex Potion 
+772;Mass Sharpness Potion 
+773;Mass Hardness Potion 
+774;Mass Mana Condense Potion 
+775;Mass Vitality Potion 
+776;Mass Vital Regen. Potion 
+777;Force Cleaner 
+778;First Core 
+779;Second Core 
+780;VGA Card 
+781;Main Board 
+782;Intel Dual Core Machine 
+783;Chaos Lamp 
+784;ATI Graphic Card 
+785;Bracelet Of Fighter 
+786;Bracelet Of Fighter +1 
+787;Bracelet Of Fighter +2 
+788;Bracelet Of Fighter +3 
+789;Bracelet Of Fighter +4 
+790;Bracelet Of Sage 
+791;Bracelet Of Sage +1 
+792;Bracelet Of Sage +2 
+793;Bracelet Of Sage +3 
+794;Bracelet Of Sage +4 
+795;Extortion Bracelet 
+796;Extortion Bracelet +1 
+797;Extortion Bracelet +2 
+798;Extortion Bracelet +3 
+799;Extortion Bracelet +4 
+800;Bracelet Of Seven Coins 
+801;Bracelet Of Seven Coins +1 
+802;Bracelet Of Seven Coins +2 
+803;Bracelet Of Seven Coins +3 
+804;Bracelet Of Seven Coins +4 
+805;Earring Of Guard 
+806;Earring Of Guard +1 
+807;Earring Of Guard +2 
+808;Earring Of Guard +3 
+809;Earring Of Guard +4 
+810;Force Regeneration Earring 
+811;Force Regeneration Earring +1 
+812;Force Regeneration Earring +2 
+813;Force Regeneration Earring +3 
+814;Force Regeneration Earring +4 
+815;Vampiric Earring 
+816;Vampiric Earring +1 
+817;Vampiric Earring +2 
+818;Vampiric Earring +3 
+819;Vampiric Earring +4 
+820;Earring Of Seven Coins 
+821;Earring Of Seven Coins +1 
+822;Earring Of Seven Coins +2 
+823;Earring Of Seven Coins +3 
+824;Earring Of Seven Coins +4 
+825;Bracelet Of Brute 
+826;Bracelet Of Brute +1 
+827;Bracelet Of Brute +2 
+828;Bracelet Of Serenity 
+829;Bracelet Of Serenity +1 
+830;Bracelet Of Serenity +2 
+831;Life Absorb Bracelet 
+832;Life Absorb Bracelet +1 
+833;Life Absorb Bracelet +2 
+834;Mana Absorb Bracelet 
+835;Mana Absorb Bracelet +1 
+836;Mana Absorb Bracelet +2 
+837;Protection Earring 
+838;Protection Earring +1 
+839;Protection Earring +2 
+840;Vital Earring 
+841;Vital Earring +1 
+842;Vital Earring +2 
+843;Evasion Earring 
+844;Evasion Earring +1 
+845;Evasion Earring +2 
+846;I am a reporter 
+847;Broken Sword (B)N 
+848;Concentraion Potion (Lv. 2) 
+849;Reflex Potion (Lv. 2) 
+850;Vital Potion (Lv. 2) 
+851;Sharpness Potion (Lv. 2) 
+852;Mana Condense Potion (Lv. 2) 
+853;Vital Regen. Potion (Lv. 2) 
+854;Honorable Earring Of Guard 
+855;Hardness Potion (Lv. 2) 
+856;Strike Potion (Lv. 2) 
+857;Honorable Extortion Bracelet 
+858;Crushing Potion (Lv. 2) 
+859;Skill Potion (Lv. 2) 
+860;Concentraion Potion (Lv. 3) 
+861;Reflex Potion (Lv. 3) 
+862;Vital Potion (Lv. 3) 
+863;Sharpness Potion (Lv. 3) 
+864;Mana Condense Potion (Lv. 3) 
+865;Vital Regen. Potion (Lv. 3) 
+866;Force Regen. Potion (Lv. 3) 
+867;Hardness Potion (Lv. 3) 
+868;Strike Potion (Lv. 3) 
+869;Critical Potion (Lv. 3) 
+870;Crushing Potion (Lv. 3) 
+871;Skill Potion (Lv. 3) 
+872;Archridium Epaulet of Guard 
+873;Archridium Epaulet of Fighter 
+874;Archridium Epaulet of Sage 
+875;Skill Book (Apocalipse Decision) 
+876;Skill Book (Inifinity Blade) 
+877;Skill Book (Hell Crasher) 
+878;Skill Book (Greater Quake Prism) 
+879;Skill Book (Glacier Trap) 
+880;Skill Book (Pera Arrow) 
+881;Guild Emblem Frame Type-A DarkRed 
+882;Guild Emblem Symbol-Skeleton 
+883;Guild Emblem Symbol-Rose 
+884;Guild Emblem Symbol-Moon 
+885;Guild Emblem Symbol-CrossSword 
+886;Guild Emblem Symbol-Crown 
+887;Guild Emblem Symbol-Shield 
+888;Guild Emblem Symbol-Dragon 
+889;Guild Emblem Symbol-Eagle 
+890;Guild Emblem Symbol-Unicorn 
+891;Wealthy Party Epaulet 
+892;NightWalkers (Armor) R 
+893;NightWalkers (Battle) R 
+894;NightWalkers (Martial) R 
+895;Social Effect Kit-Firecracker of Heil 
+896;Social Effect Kit-Sample Emblem 
+897;Social Effect Kit-Sample Logo 
+898;Social Effect Kit4 
+899;Lost Amulet 
+900;Advisor 
+901;Change Kit (Hair Style) - Novice 
+902;Change Kit (Hair Style) - Foetree 
+903;Change Kit (Hair Style) - Season 
+904;Change Kit (Color) - Normal 
+905;Change Kit (Color) - Premium 
+906;Change Kit (Face) - Novice 
+907;Change Kit (Face) - Premium 
+908;Change Kit - RESERVED1 
+909;Change Kit - RESERVED2 
+910;Change Kit - RESERVED3 
+911;Rename Card 
+912;Core Enhancer (Low) 
+913;Core Enhancer (Medium) 
+914;Core Enhancer (High) 
+915;Blessing Bead - Warehouse (No. 4) 
+916;Blessing Bead - EXP (10%) 
+917;Blessing Bead - EXP (25%) 
+918;Blessing Bead - Skill EXP (10%) 
+919;Blessing Bead - Skill EXP (25%) 
+920;Blessing Bead - Drop Rate (50%) 
+921;Blessing Bead - Drop Rate (100%) 
+922;GolemCookieS 
+923;not used 
+924;not used 
+925;not used 
+926;not used 
+927;not used 
+928;not used 
+929;not used 
+930;not used 
+931;not used 
+932;not used 
+933;not used 
+934;Moon Walker (Armor) 
+935;Moon Walker (Battle) 
+936;Moon Walker (Martial) 
+937;Astral Board Card - Zero Black 
+938;Astral Board Card - Zero Silver 
+939;Odd Circle 
+940;Resurrection Potion 
+941;Cure Potion 
+942;Cure Potion 
+943;Remote Shop Card 
+944;Return Core 
+945;Epaulet of the Dead2N 
+946;Pet - Little Jack 
+947;Epaulet of Discipline 
+948;Shadowtitanium Armor Suit 
+949;Shadowtitanium Armor Gloves 
+950;Shadowtitanium Armor Boots  
+951;Shadowtitanium Armor Helm 
+952;Shadowtitanium Battle Suit 
+953;Shadowtitanium Battle Gloves 
+954;Shadowtitanium Battle Boots 
+955;Shadowtitanium Battle Helm 
+956;Shadowtitanium Martial Suit 
+957;Shadowtitanium Martial Gloves 
+958;Shadowtitanium Martial Boots 
+959;Shadowtitanium Martial Helm 
+960;Shineguard Armor Suit 
+961;Shineguard Armor Gloves 
+962;Shineguard Armor Boots  
+963;Shineguard Armor Helm 
+964;Teragrace Battle Suit 
+965;Teragrace Battle Gloves 
+966;Teragrace Battle Boots 
+967;Teragrace Battle Helm 
+968;Mystic Martial Suit 
+969;Mystic Martial Gloves 
+970;Mystic Martial Boots 
+971;Mystic Martial Helm 
+972;SigMetal Armor Suit 
+973;SigMetal Armor Gloves 
+974;SigMetal Armor Boots  
+975;SigMetal Armor Helm 
+976;SigMetal Battle Suit 
+977;SigMetal Battle Gloves 
+978;SigMetal Battle Boots 
+979;SigMetal Battle Helm 
+980;SigMetal Martial Suit 
+981;SigMetal Martial Gloves 
+982;SigMetal Martial Boots 
+983;SigMetal Martial Helm 
+984;Drei Frame Armor Suit 
+985;Drei Frame Armor Gloves 
+986;Drei Frame Armor Boots  
+987;Drei Frame Armor Helm 
+988;Drei Frame Battle Suit 
+989;Drei Frame Battle Gloves 
+990;Drei Frame Battle Boots 
+991;Drei Frame Battle Helm 
+992;Drei Frame Martial Suit 
+993;Drei Frame Martial Gloves 
+994;Drei Frame Martial Boots 
+995;Drei Frame Martial Helm 
+996;Sample Armorboots (Lv. 50) 
+997;Sample Battleboots (Lv. 50) 
+998;Sample Martialboots (Lv. 50) 
+999;Sample Armorhelm (Lv. 50) 
+1000;Sample Battlehelm (Lv. 50) 
+1001;Sample Martialhelm (Lv. 50) 
+1002;Epaulet of Vampire R 
+1003;Epaulet of Halloween R 
+1004;Little Jack 
+1005;Funny Little Jack - Halloween Pack. 
+1006;Funny Little Jack - Type A 
+1007;Funny Little Jack - Type B 
+1008;Funny Little Jack - Type C 
+1009;Halloween Life Candy (Lv. 3) 
+1010;Halloween Mana Candy (Lv. 3) 
+1011;Halloween Gift Ticket 
+1012;Halloween Trick Ticket 
+1013;Halloween - Pumpkin Helmet 
+1014;Fresh from the Sea - Orb/Crystal 
+1015;Fresh from the Sea - - Katana/Daikatana 
+1016;Fresh from the Sea - - Blade/Greatsword 
+1017;Funny Christmas - Orb/Crystal 
+1018;Funny Christmas - Katana/Daikatana 
+1019;Funny Christmas - Blade/Greatsword 
+1020;Avatar - Pumpkin Helmet 
+1021;Pet - Garlie 
+1022;Pet - Red Garlie 
+1023;Pet - Giant Beetle 
+1024;Pet - Nipperlug 
+1025;Pet - Rabbithorn 
+1026;Pet - Troglo 
+1027;Pet - Troglo Warrior 
+1028;Pet - Elder Troglo 
+1029;Pet - Mantis 
+1030;Pet - Dire Boar 
+1031;Pet - Mummy 
+1032;Pet - Crag Turtle 
+1033;Pet - Armaku 
+1034;Epaulet of Night Walkers (Armor) 
+1035;Epaulet of Night Walkers (Battle) 
+1036;Epaulet of Night Walkers (Martial) 
+1037;Epaulet of Vampire 
+1038;Epaulet of Halloween 
+1039;Night Walkers (Armor) 
+1040;Night Walkers (Battle) 
+1041;Night Walkers (Martial) 
+1042;Gold Coin (10,000 Alz) 
+1043;Silver Coin (5,000 Alz) 
+1044;Copper Coin (1,000 Alz) 
+1045;Pet - Little Pery 
+1046;Pet - Golem Jr. 
+1047;Pet - Little Gry 
+1048;Pet - Cutie Lai 
+1049;Pet - Cutie Tai 
+1050;Pet - Charisma Pan 
+1051;Pet - Fancy Zard 
+1052;Pet - Gentle Parrot 
+1053;Pet - Peng 
+1054;Pet - Pinky 
+1055;Pet - Rudolph 
+1056;Epaulet of Freed 
+1057;Epaulet of Rin 
+1058;Epaulet of Skaild 
+1059;Epaulet of Mystic Blade 
+1060;Epaulet of Yuan 
+1061;Epaulet of Santa  
+1062;Epaulet of Cutie Santa 
+1063;Snow Ice - Orb/Crystal 
+1064;Snow Ice - Katana/Daikatana 
+1065;Snow Ice - Blade/Greatsword 
+1066;Snow Star - Orb/Crystal 
+1067;Snow Star - Katana/Daikatana 
+1068;Snow Star - Blade/Greatsword 
+1069;Antler & Red Nose 
+1070;Antler 
+1071;Red Nose 
+1072;Winter Cap 
+1073;Earmuff 
+1074;X Mask 
+1075;Skeleton Mask 
+1076;Santa Hood 
+1077;Cutie Santa Hood 
+1078;Antler & Red Nose 
+1079;Antler 
+1080;Red Nose 
+1081;Winter Cap 
+1082;Earmuff 
+1083;X Mask 
+1084;Skeleton Mask 
+1085;Santa Hood 
+1086;Cutie Santa Hood 
+1087;Santa Coat 
+1088;Cutie Santa Coat 
+1089;Suit of Wealthy's Party 
+1090;Moon Walkers (Armor) 
+1091;Moon Walkers (Battle) 
+1092;Moon Walkers (Martial) 
+1093;Suit of Vampire 
+1094;Night Walkers (Armor) 
+1095;Night Walkers (Battle) 
+1096;Night Walkers (Martial) 
+1097;Suit of Freed 
+1098;Suit of Rin 
+1099;Suit of Skaild 
+1100;Suit of Mystic Blade 
+1101;Suit of Yuan 
+1102;Halloween Dress 
+1103;Love Letter 
+1104;Single Diary 
+1105;Couple elimination trophy 
+1106;Single Diary 
+1107;Bad Couple 
+1108;Sad Single 
+1109;Bad Couple (Collect) 
+1110;Sad Single (Collect) 
+1111;Bad Couple (Divide) 
+1112;Sad Single (Divide) 
+1113;Present box Formula Card (Couple) 
+1114;Present box Formula Card (Single) 
+1115;Snow Star HP Potion 
+1116;Snow Ice MP Potion 
+1117;Christmas present box 
+1118;Christmas present box 
+1119;Freeze Santa 
+1120;Stomp Santa 
+1121;Strike Santa 
+1122;Walking Santa 
+1123;Chase Santa 
+1124;Ouch! Santa 
+1125;Christmas Tree 
+1126;Little House 
+1127;Single Snowman 
+1128;Couple Snowman 
+1129;Red-nosed reindeer Rudolph 
+1130;Christmas Tree (Fancy) 
+1131;Freeze Santa (Fancy) 
+1132;Stomp Santa (Fancy) 
+1133;Strike Santa (Fancy) 
+1134;Walking Santa (Fancy) 
+1135;Chase Santa (Fancy) 
+1136;Ouch! Santa (Fancy) 
+1137;Little House (Fancy) 
+1138;Dialogue Bubble - Merry Christmas 
+1139;ATI Graphic Card 
+1140;Gem 
+1141;Helmet 
+1142;Fire 
+1143;Festival Orb/Crystal 
+1144;Festival Katana/Daikatana 
+1145;Festival Blade/Great Sword 
+1146;Japanese Gala Dress 
+1147;Epaulet of Japanese Gala Dress  
+1148;not used 
+1149;not used 
+1150;not used 
+1151;not used 
+1152;not used 
+1153;not used 
+1154;not used 
+1155;not used 
+1156;not used 
+1157;Japanese traditional gala headdress 
+1158;Japanese traditional gala headdress 
+1159;Mithril Cube (Orb) 
+1160;Mithril Cube (Crystal) 
+1161;Mithril Cube (Katana) 
+1162;Mithril Cube (Blade) 
+1163;Mithril Cube (Daikatana) 
+1164;Mithril Cube (Greatsword) 
+1165;Mithril Cube (Plate (WA)) 
+1166;Mithril Cube (Plate (FS)) 
+1167;Mithril Cube (Coat (FB)) 
+1168;Mithril Cube (Coat (FA)) 
+1169;Mithril Cube (Suit (BL)) 
+1170;Mithril Cube (Suit (WI)) 
+1171;Mithril Cube (Gauntlet (WA)) 
+1172;Mithril Cube (Gauntlet (FS)) 
+1173;Mithril Cube (Gloves (FB)) 
+1174;Mithril Cube (Gloves (FA)) 
+1175;Mithril Cube (Hands (BL)) 
+1176;Mithril Cube (Hands (WI)) 
+1177;Formula Card (Mithril) 
+1178;Formula Card (Mithril) 
+1179;Formula Card (Mithril/Slot) 
+1180;Formula Card (Mithril/Slot) 
+1181;Key (R)N 
+1182;Key (G)N 
+1183;Key (B)N 
+1184;Gold KeyN 
+1185;MusterN 
+1186;G_Sword2N 
+1187;Purify Epaulet 
+1188;Mithril Cube (Greaves (WA)) 
+1189;Mithril Cube (Greaves (FS)) 
+1190;Mithril Cube (Boots (FB)) 
+1191;Mithril Cube (Boots (FA)) 
+1192;Mithril Cube (Shoes (BL)) 
+1193;Mithril Cube (Shoes (WI)) 
+1194;Mithril Cube (Visor (WA)) 
+1195;Mithril Cube (Visor (FS)) 
+1196;Mithril Cube (Headgear (FB)) 
+1197;Mithril Cube (Headgear (FA)) 
+1198;Mithril Cube (Headpiece (BL)) 
+1199;Mithril Cube (Headpiece (WI)) 
+1200;Astral Core (Mithril) 
+1201;Astral Core (Blue Mithril) 
+1202;C.A. Unit - Regard for H.Age 
+1203;Illusion Coral 
+1204;Machinery Head 
+1205;Astral Skull 
+1206;Infernal Ruby 
+1207;Formula Card (Cartridge Change) 
+1208;Epaulet of Guardian +8 
+1209;Epaulet of Fighter +8 
+1210;Epaulet of Sage +8 
+1211;NationSelect1N 
+1212;NationSelect2N 
+1213;Copy Ring2 
+1214;Upgrade Core (Highest) 
+1215;Force Core (Highest) 
+1216;Slot Extender (Highest) 
+1217;Cat Stone 
+1218;C.A. Unit - Desire H.Age 
+1219;Earring of Bless 
+1220;Earring of Bless +1 
+1221;Adept Bracelet 
+1222;Adept Bracelet +1 
+1223;Epaulet of Chinese Gala Dress 
+1224;Epaulet of Korean Gala Dress 
+1225;Epaulet of Goguryeo 
+1226;not used 
+1227;Spicy Rice-cake soup 
+1228;Full Rice-cake soup 
+1229;Nutritious Rice-cake soup 
+1230;Korean Gala Headdress 
+1231;Goguryeo Headband 
+1232;Korean Gala Headdress 
+1233;Goguryeo Headband 
+1234;Chinese Gala Dress 
+1235;Korean Gala Dress 
+1236;Goguryeo Dress 
+1237;Sandy Dust Mask 
+1238;Sandy Dust Mask 
+1239;X-Gen Card 
+1240;Bamboo Leaf 
+1241;Bamboo shoot 
+1242;(S)Concentration Potion (Lv. 1) 
+1243;(S)Reflex Potion (Lv. 1) 
+1244;(S)Vital Potion (Lv. 1) 
+1245;(S)Sharpness Potion (Lv. 1) 
+1246;(S)Mana Condense Potion (Lv. 1) 
+1247;(S)Vital Regen Potion (Lv. 1) 
+1248;(S)Hardness Potion (Lv. 1) 
+1249;(S)Strike Potion (Lv. 1) 
+1250;(S)Concentration Potion (Lv. 2) 
+1251;(S)Reflex Potion (Lv. 2) 
+1252;(S)Vital Potion (Lv. 2) 
+1253;(S)Sharpness Potion (Lv. 2) 
+1254;(S)Mana Condense Potion (Lv. 2) 
+1255;(S)Goodluck Potion (Lv. 1) 
+1256;(S)Vital Regen Potion (Lv. 2) 
+1257;(S)Hardness Potion (Lv. 2) 
+1258;(S)Strike Potion (Lv. 2) 
+1259;(S)Goodluck Potion (Lv. 2) 
+1260;(S)Concentration Potion (Lv. 3) 
+1261;(S)Reflex Potion (Lv. 3) 
+1262;(S)Vital Potion (Lv. 3) 
+1263;(S)Sharpness Potion (Lv. 3) 
+1264;(S)Mana Condense Potion (Lv. 3) 
+1265;(S)Vital Regen Potion (Lv. 3) 
+1266;(S)Hardness Potion (Lv. 3) 
+1267;(S)Strike Potion (Lv. 3) 
+1268;Core Enhancer (Highest) 
+1269;Life Capsule (Lv. 2) TypeA 
+1270;Life Capsule (Lv. 2) TypeB 
+1271;Life Capsule (Lv. 3) TypeA 
+1272;Life Capsule (Lv. 3) TypeB 
+1273;Pet - Fortune Pig 
+1274;Pet - Golden Fortune Pig 
+1275;Periodical Remote shop card 
+1276;Capella (WA) 
+1277;Capella (BL) 
+1278;Capella (WI) 
+1279;Capella (FA) 
+1280;Capella (FS) 
+1281;Capella (FB) 
+1282;Procyon (WA) 
+1283;Procyon (BL) 
+1284;Procyon (WI) 
+1285;Procyon (FA) 
+1286;Procyon (FS) 
+1287;Procyon (FB) 
+1288;Uniform of Capella (WA) 
+1289;Uniform of Capella (BL) 
+1290;Uniform of Capella (WI) 
+1291;Uniform of Capella (FA) 
+1292;Uniform of Capella (FS) 
+1293;Uniform of Capella (FB) 
+1294;Uniform of Procyon (WA) 
+1295;Uniform of Procyon (BL) 
+1296;Uniform of Procyon (WI) 
+1297;Uniform of Procyon (FA) 
+1298;Uniform of Procyon (FS) 
+1299;Uniform of Procyon (FB) 
+1300;Portable FT Panel 
+1301;Core Cube 
+1302;Duplicate Ring 3 
+1303;Chaos Box - Ticket 
+1304;Chaos Box - Epaulet 
+1305;Chaos Box - Avatar 
+1306;Chaos Box - Core 
+1307;Chaos Box - Extender 
+1308;Chaos Box - Board 
+1309;Fan 
+1310;Chaos lamp the purple 
+1311;Chaos Box - Free 
+1312;Legacy Weapon 
+1313;Honda Logo 
+1314;Shadowtitanium Armor Suit (WA) 
+1315;Shadowtitanium Armor Suit (FS) 
+1320;Shadowtitanium Armor Gloves (WA) 
+1321;Shadowtitanium Armor Gloves (FS) 
+1326;Shadowtitanium Armor Boots (WA) 
+1327;Shadowtitanium Armor Boots (FS) 
+1332;Shadowtitanium Armor Helm (WA) 
+1333;Shadowtitanium Armor Helm (FS) 
+1316;Shadowtitanium Battle Suit (FB) 
+1317;Shadowtitanium Battle Suit (FA) 
+1322;Shadowtitanium Battle Gloves (FB) 
+1323;Shadowtitanium Battle Gloves (FA) 
+1328;Shadowtitanium Battle Boots (FB) 
+1329;Shadowtitanium Battle Boots (FA) 
+1334;Shadowtitanium Battle Helm (FB) 
+1335;Shadowtitanium Battle Helm (FA) 
+1318;Shadowtitanium Martial Suit (BL) 
+1319;Shadowtitanium Martial Suit (WI) 
+1324;Shadowtitanium Martial Gloves (BL) 
+1325;Shadowtitanium Martial Gloves (WI) 
+1330;Shadowtitanium Martial Boots (BL) 
+1331;Shadowtitanium Martial Boots (WI) 
+1336;Shadowtitanium Martial Helm (BL) 
+1337;Shadowtitanium Martial Helm (WI) 
+1338;Shadow Epaulet of Guardian +5 
+1339;Shadow Epaulet of Fighter +5 
+1340;Shadow Epaulet of Sage +5 
+1341;Good and Evil Epaulet 
+1342;Good and Evil Shirt 
+1343;Evolver 7 Grade (WA/FB/BL) 
+1344;Evolver 7 Grade (FS/FA/WI) 
+1345;Evolver 8 Grade (WA/FB/BL) 
+1346;Evolver 8 Grade(FS/FA/WI) 
+1347;Evolver 9 Grade (WA/FB/BL) 
+1348;Evolver 9 Grade (FS/FA/WI) 
+1349;Evolver 10 Grade (WA/FB/BL) 
+1350;Evolver 10 Grade (FS/FA/WI) 
+1351;Evolver 11 Grade (WA/FB/BL) 
+1352;Evolver 11 Grade (FS/FA/WI) 
+1353;Evolver 11 Grade (WA/FB/BL) 
+1354;Evolver 11 Grade (FS/FA/WI) 
+1355;Anniversary item 
+1356;Wedding Ring 
+1357;Happy Birthday Hood 
+1358;Avatar- Happy Birthday Hood 
+1359;Happy Birthday Bubble Dialogue 
+1360;Happy Birthday Ring 
+1361;Event Rudolph 
+1362;Royal Fixer Lv 1 
+1363;Royal Fixer Lv 2 
+1364;Royal Fixer Lv 3 
+1365;Royal Fixer Lv 4 
+1366;Royal Fixer Lv 5 
+1367;Miracle Key Lv 1 
+1368;Miracle Key Lv 2 
+1369;Miracle Key Lv 3 
+1370;Miracle Key Lv 4 
+1371;Miracle Key Lv 5 
+1372;Raw Platinum 
+1373;Santa's Sleigh 
+1374;White Socks 
+1375;Green Socks 
+1376;Shiny Blue Socks 
+1377;Santa's Red Socks 
+1378;Santa Fury Epaulet 
+1379;Gold Coin 
+1380;Silver Coin 
+1381;Copper Coin 
+1382;Blessing Bead - Plus 
+1383;Chaos Box - Arena 
+1384;Spring Bamboo shoot 
+1385;Soft Bamboo shoot 
+1386;Tasty Bamboo shoot 
+1387;Spring Bamboo Leaf (Small) 
+1388;Spring Bamboo Leaf (Big) 
+1389;Blessing Bead - WEXP (25%) 
+1390;Giftbox - Santa Coat 
+1391;Giftbox - Cutie Santa Coat 
+1392;Giftbox - Suit of Wealthy's Party 
+1393;Giftbox - Suit of Vampire 
+1394;Giftbox - Night Walkers (Armor) 
+1395;Giftbox - Night Walkers (Battle) 
+1396;Giftbox - Night Walkers (Martial) 
+1397;Giftbox - Suit of Freed 
+1398;Giftbox - Suit of Rin 
+1399;Giftbox - Suit of Skaild 
+1400;Giftbox - Suit of Mystic Blade 
+1401;Giftbox - Suit of Yuan 
+1402;Giftbox - Halloween Dress 
+1403;Giftbox - Japanese Gala Dress 
+1404;Giftbox - Chinese Gala Dress  
+1405;Giftbox - Korean Gala Dress 
+1406;Giftbox - Goguryeo Dress 
+1407;Giftbox - Uniform of Capella (WA) 
+1408;Giftbox - Uniform of Capella (BL) 
+1409;Giftbox - Uniform of Capella (WI) 
+1410;Giftbox - Uniform of Capella (FA) 
+1411;Giftbox - Uniform of Capella (FS) 
+1412;Giftbox - Uniform of Capella (FB) 
+1413;Giftbox - Uniform of Procyon (WA) 
+1414;Giftbox - Uniform of Procyon (BL) 
+1415;Giftbox - Uniform of Procyon (WI) 
+1416;Giftbox - Uniform of Procyon (FA) 
+1417;Giftbox - Uniform of Procyon (FS) 
+1418;Giftbox - Uniform of Procyon (FB) 
+1419;Giftbox - Astral Board Card - X Steelblue 
+1420;Giftbox - Astral Board Card - X Green 
+1421;Giftbox - Astral Board Card - X2 Red 
+1422;Giftbox - Astral Board Card - X2 Blue 
+1423;Giftbox - Astral Board Card - X3 White 
+1424;Perfect Core (Low) 
+1425;Perfect Core (Medium) 
+1426;Perfect Core (High) 
+1427;Vital Gear (HP) 
+1428;Forest Water 
+1429;Clean Water 
+1430;Water Elemental 
+1431;Water Elemental Epaulet 
+1432;Water Elemental Dress 
+1433;Water Elemental - Orb/Crystal 
+1434;Water Elemental - Katana/Daikatana 
+1435;Water Elemental - Blade/Great Sword 
+1436;Fireworks 
+1437;Chaos Lamp for Global service 
+1438;Water Elemental Dialogue 
+1439;Fireworks FX 
+1440;Blessing Bead - Skill EXP (50%) 
+1441;NationSelect3N 
+1442;Astral Bike Card - Crystal Blue (Japan) 
+1443;Astral Bike Card - Crystal RW3 (Japan) 
+1444;X-Fire Event Item 
+1445;Epaulet of Vampire 
+1446;Earring of Guard +5 
+1447;Earring of Guard +6 
+1448;Earring of Guard +7 
+1449;Force Regeneration Earring +5 
+1450;Force Regeneration Earring +6 
+1451;Force Regeneration Earring +7 
+1452;Vampiric Earring +5 
+1453;Vampiric Earring +6 
+1454;Vampiric Earring +7 
+1455;Bracelet Of Fighter +5 
+1456;Bracelet Of Fighter +6 
+1457;Bracelet Of Fighter +7 
+1458;Bracelet Of Sage +5 
+1459;Bracelet Of Sage +6 
+1460;Bracelet Of sage +7 
+1461;Extortion Bracelet +5 
+1462;Extortion Bracelet +6 
+1463;Extortion Bracelet +7 
+1464;Pet Name Card 
+1465;Pet Sleeping Kit (Lv. 1) 
+1466;Pet Untrain Kit 
+1467;Muster2N 
+1468;TorchN 
+1469;Piece of Rock1S 
+1470;Piece of Rock2S 
+1471;Oil BottleN 
+1472;Piece of Rock3N 
+1473;Piece of Rock4N 
+1474;AriyakN 
+1475;ArtoorbarN 
+1476;Crown 
+1477;Trugater 
+1478;PuzzleN 
+1479;Reflecting StoneN 
+1480;Pet Sleeping Kit (Lv. 2) 
+1481;Pet Sleeping Kit (Lv. 3) 
+1482;Pet Sleeping Kit (Lv. 4) 
+1483;Pet Sleeping Kit (Lv. 5) 
+1484;Pet Sleeping Kit (Lv. 6) 
+1485;Pet Sleeping Kit (Lv. 7) 
+1486;Pet Sleeping Kit (Lv. 8) 
+1487;Pet Sleeping Kit (Lv. 9) 
+1488;Pet Sleeping Kit (Lv. 10) 
+1489;Pet Sleeping Kit (Special) 
+1490;Pet - ChaCha 
+1491;Pet - Worry Bear 
+1492;Pet - Meow Ninja 
+1493;Pet - Robo Robo 
+1494;Pet - Woolly 
+1495;Pet - Nevareth Husky 
+1496;Giftbox - Epaulet of Yuan-30days 
+1497;Giftbox - Epaulet of Freed-30days 
+1498;Giftbox - Epaulet of Yuan 
+1499;Giftbox - Epaulet of Freed 
+1500;Cloverfield DVD Item 
+1501;Cloverfield Statue Item 
+1502;Japanese Ticket - Gold 
+1503;Japanese Ticket - Silver 
+1504;Japanese Ticket - Bronze 
+1505;Pet Rename Card 
+1506;Festival Coin Piece - Gold 
+1507;Festival Coin - Silver 
+1508;Festival Coin - Gold 
+1509;Festival Coin Piece - Silver 
+1510;Blessing Bead - Pet EXP (100%) 
+1511;Legend Of Yellow NEVEIK 
+1512;Black Suit 
+1513;Apprentice Uniform of the Sage Tower 
+1514;Legend Of Yellow Epaulet 
+1515;Black Suit Epaulet 
+1516;Apprentice Suit of the Sage Tower Epaulet 
+1517;Giftbox - Water Elemental Dress 
+1518;Giftbox - Legend of Yellow 
+1519;Giftbox - Black Suit 
+1520;Giftbox - Apprentice Suit of the Sage Tower 
+1521;Force Amplifier 
+1522;Concentration Potion (Lv. 4) of War 
+1523;Reflex Potion (Lv. 4) of War - Mission War 
+1524;Vital Potion (Lv. 4) of War 
+1525;Sharpness Potion (Lv. 4) of War 
+1526;Mana Condense Potion (Lv. 4) of War 
+1527;Vital Regen Potion (Lv. 4) of War 
+1528;Hardness Potion (Lv. 4) of War 
+1529;Strike Potion (Lv. 4) of War 
+1530;Sword Master Potion (Lv. 4) of War 
+1531;Magic Master Potion (Lv. 4) of War 
+1532;Evasion Potion (Lv. 4) of War 
+1533;Pet Change Kit 
+1534;Platinum Thanksgiving Giftbox 
+1535;Thanksgiving Giftbox 
+1536;Charisma Pan 
+1537;Charisma Pan Epaulet 
+1538;Compass N 
+1539;Giftbox - Charisma Pan 
+1540;Spirit Gear (Lv. 1) 
+1541;Pet - Outer Invader 
+1542;Remote Agent Shop Card 
+1543;Hip Hop Spirit 
+1544;Gorgeous Mate 
+1545;Hip Hop Spirit Epaulet 
+1546;Gorgeous Servant Epaulet 
+1547;Giftbox - Hip Hop Spirit 
+1548;Giftbox - Gorgeous Servant 
+1549;Core Cube (B) 
+1550;CABAL Birthday Hood 
+1551;Avatar - CABAL Birthday Hood 
+1552;CABAL Birthday Ring 
+1553;Red Necklace S 
+1554;Red Necklace N 
+1555;Red Stone N 
+1556;Fire Charm N 
+1557;Spear 2N 
+1558;CABAL High School  
+1559;CABAL High School Epaulet 
+1560;Giftbox - CABAL High School 
+1561;Event 1S 
+1562;Event2N 
+1563;Event Lotto Box 
+1564;Anniversary item (Bronze) 
+1565;Anniversary item (Silver) 
+1566;Anniversary item (Platinum) 
+1567;Anniversary item 
+1568;Yekaterina VIP Membership 
+1569;Giftbox - Black Transmuter 
+1570;Event Font 
+1571;Event Font 
+1572;Event Font 
+1573;Event Font 
+1574;Event Font 
+1575;Event Font 
+1576;Event Font 
+1577;Event Font 
+1578;Event Font 
+1579;Event Font 
+1580;Event Font 
+1581;Event Font 
+1582;Event Font 
+1583;Event Font 
+1584;Event Font 
+1585;Event Font 
+1586;Event Font 
+1587;Event Font 
+1588;Event Font 
+1589;Event Font 
+1590;Event Font 
+1591;Event Font 
+1592;Event Font 
+1593;Event Font 
+1594;Event Font 
+1595;Event Font 
+1596;Event Font 
+1597;Event Font 
+1598;Event Font 
+1599;Event Font 
+1600;Event Font 
+1601;Event Font 
+1602;Event Font 
+1603;Event Font 
+1604;Event Font 
+1605;Event Font 
+1606;Fists of Rage 
+1607;Fists of Rage Epaulet 
+1608;Winter Fever 
+1609;Winter Fever Epaulet 
+1610;Giftbox - Fists of Rage 
+1611;Giftbox - Winter Fever 
+1612;Giftbox - Love Dad Yellow Shirt 
+1613;SIGMetal Orb 
+1614;SIGMetal Crystal 
+1615;SIGMetal Katana 
+1616;SIGMetal Blade 
+1617;SIGMetal Daikatana 
+1618;SIGMetal Great Sword 
+1619;Worm Red Socks 
+1620;Pet - Moley 
+1621;Absolute Badge 
+1622;Vital Gear (HP) Type AC1 
+1623;Vital Gear (HP) Type AC2 
+1624;Vital Gear (HP) Type AC3 
+1625;Vital Gear (HP) Type AC4 
+1626;Vital Gear (HP) Type AC5 
+1627;Vital Gear (HP) Type AC6 
+1628;Vital Gear (HP) Type AC7 
+1629;Lovely Sweety 
+1630;Lovely Sweety Epaulet 
+1631;Pet - Cookie 
+1632;Giftbox - Lovely Sweety 
+1633;SIGMetal Plate (WA) 
+1634;SIGMetal Plate (FS) 
+1639;SIGMetal Gauntlet (WA) 
+1640;SIGMetal Gauntlet (FS) 
+1645;SIGMetal Greave (WA) 
+1646;SIGMetal Greave (FS) 
+1651;SIGMetal Visor (WA) 
+1652;SIGMetal Visor (FS) 
+1635;SIGMetal Coat (FB) 
+1636;SIGMetal Coat (FA) 
+1641;SIGMetal Glove (FB) 
+1642;SIGMetal Glove (FA) 
+1647;SIGMetal Boots (FB) 
+1648;SIGMetal Boots (FA) 
+1653;SIGMetal Headgear (FB) 
+1654;SIGMetal Headgear (FA) 
+1637;SIGMetal Suit (BL) 
+1638;SIGMetal Suit (WI) 
+1643;SIGMetal Hand (BL) 
+1644;SIGMetal Hand (WI) 
+1649;SIGMetal Shoes (BL) 
+1650;SIGMetal Shoes (WI) 
+1655;SIGMetal Headpiece (BL) 
+1656;SIGMetal Headpiece (WI) 
+1657;SIGMetal Epaulet of Guardian +7 
+1658;SIGMetal Epaulet of Fighter +7 
+1659;SIGMetal Epaulet of Sage +7 
+1660;Disguise SeedN 
+1661;Gem1N 
+1662;Gem2N 
+1663;Gem3N 
+1664;Gem4N 
+1665;Dry BranchN 
+1666;Burning BranchN 
+1667;FragmentsN 
+1668;Clean Water BottleN 
+1669;Buff Capsule Cube (Low) 
+1670;Buff Capsule Cube (Medium) 
+1671;Buff Capsule Cube (High) 
+1672;Hardness Capsule (Lv. 1) 
+1673;Hardness Capsule (Lv. 2) 
+1674;Hardness Capsule (Lv. 3) 
+1675;Hardness Capsule (Lv. 4) 
+1676;Hardness Capsule (Lv. 5) 
+1677;Hardness Capsule (Lv. 6) 
+1678;Hardness Capsule (Lv. 7) 
+1679;Hardness Capsule (Lv. 8) 
+1680;EXP 
+1681;Skill EXP 
+1682;Party EXP 
+1683;Pet EXP 
+1684;Alz Drop Amount 
+1685;Alz Drop Rate 
+1686;Alz Bomb Chance 
+1687;Attack Rate 
+1688;Defense Rate 
+1689;Down Resist. 
+1690;Knock-Back Resist. 
+1691;Stun Resist. 
+1692;STR 
+1693;DEX 
+1694;INT 
+1695;HP 
+1696;MP 
+1697;Attack 
+1698;Magic Attack 
+1699;Defense 
+1700;HP Absorb Limit Up 
+1701;MP Absorb Limit Up 
+1702;HP Absorb Up 
+1703;MP Absorb Up 
+1704;Sword Skill Amp. 
+1705;Magic Skill Amp. 
+1706;Blessing Bead - AXP (25%) 
+1707;EventS (1x2) 
+1708;EventN (1x2) 
+1709;Event Lotto (1x2) 
+1710;EventS (2x1) 
+1711;EventN (2x1) 
+1712;Event Lotto (2x1) 
+1713;EventS (2x2) 
+1714;EventN (2x2) 
+1715;Event Lotto (2x2) 
+1716;Event Formula Card 
+1717;Blessing Bead - EXP (30%) 
+1718;Blessing Bead - Skill EXP (100%) 
+1719;Blessing Bead - WEXP (50%) 
+1720;Buff Capsule Cube (UCC) 
+1721;Astral Board Card - K Silver 
+1722;Astral Board Card - K Black 
+1723;Astral Board Card - K Gold 
+1724;Astral Board Card - K Red 
+1725;Astral Board Card - K Pink 
+1726;Astral Board Card - K Violet 
+1727;Astral Board Card - K Blue 
+1728;Astral Board Card - K Sky 
+1729;Astral Board Card - K Green 
+1730;Astral Board Card - K White 
+1731;Blessing Bead - EXP (40%) 
+1732;Blessing Bead - Skill EXP (40%) 
+1733;Panic Cave Entry Item 
+1734;Pet Safety Kit 
+1735;Anima Gem 
+1736;Vital Potion 
+1737;Sharpness Potion 
+1738;Manacondense Potion 
+1739;Hardness Potion 
+1740;Sword Master Potion 
+1741;Magic Master Potion 
+1742;Epaulet of Japanese gala dress 
+1743;Epaulet of Chinese gala dress  
+1744;Epaulet of Wealthy Party 
+1745;Mithril Armor Suit 
+1746;Mithril Armor Gloves 
+1747;Mithril Armor Boots  
+1748;Mithril Armor Helm 
+1749;Mithril Battle Suit 
+1750;Mithril Battle Gloves 
+1751;Mithril Battle Boots 
+1752;Mithril Battle Helm 
+1753;Mithril Martial Suit 
+1754;Mithril Martial Gloves 
+1755;Mithril Martial Boots 
+1756;Mithril Martial Helm 
+1757;Ahridium Armor Suit 
+1758;Ahridium Armor Gloves 
+1759;Ahridium Armor Boots  
+1760;Ahridium Armor Helm 
+1761;Ahridium Battle Suit 
+1762;Ahridium Battle Gloves 
+1763;Ahridium Battle Boots 
+1764;Ahridium Battle Helm 
+1765;Ahridium Martial Suit 
+1766;Ahridium Martial Gloves 
+1767;Ahridium Martial Boots 
+1768;Ahridium Martial Helm 
+1769;Giftbox - Epaulet of Guardian +8 (30 Days) 
+1770;Giftbox - Epaulet of Guardian +8 (90 Days) 
+1771;Giftbox - Epaulet of Fighter +7 (10 Days) 
+1772;Giftbox - Epaulet of Fighter +7 (30 Days) 
+1773;Giftbox - Epaulet of Fighter +7 (90 Days) 
+1774;Giftbox - Epaulet of Fighter +8 (10 Days) 
+1775;Giftbox - Epaulet of Fighter +8 (30 Days) 
+1776;Giftbox - Epaulet of Fighter +8 (90 Days) 
+1777;Giftbox - Epaulet of Sage +7 (10 Days) 
+1778;Giftbox - Epaulet of Sage +7 (30 Days) 
+1779;Giftbox - Epaulet of Sage +7 (90 Days) 
+1780;Giftbox - Epaulet of Sage +8 (10 Days) 
+1781;Giftbox - Epaulet of Sage +8 (30 Days) 
+1782;Giftbox - Epaulet of Sage +8 (90 Days) 
+1783;Chaos Box - Epaulet (Guardian) 
+1784;Chaos Box - Epaulet (Fighter) 
+1785;Chaos Box - Epaulet (Sage) 
+1786;Festival Coin - Bronze 
+1787;Disguise Seed2N 
+1788;Strike Pray I 
+1789;Strike Pray II 
+1790;Strike Pray III 
+1791;Crushing Fist I 
+1792;Crushing Fist II 
+1793;Crushing Fist III 
+1794;Sensibility I 
+1795;Sensibility II 
+1796;Sensibility III 
+1797;Counter Force I 
+1798;Counter Force II 
+1799;Counter Force III 
+1800;Sword Dance I 
+1801;Sword Dance II 
+1802;Sword Dance III 
+1803;Sword Pressure I 
+1804;Sword Pressure II 
+1805;Sword Pressure III 
+1806;Force Dance I 
+1807;Force Dance II 
+1808;Force Dance III 
+1809;Force Pressure I 
+1810;Force Pressure II 
+1811;Force Pressure III 
+1812;Trauma I 
+1813;Trauma II 
+1814;Trauma III 
+1815;Shock I 
+1816;Shock II 
+1817;Shock III 
+1818;Hornet Pierce I 
+1819;Hornet Pierce II 
+1820;Hornet Pierce III 
+1821;Velocity I 
+1822;Velocity II 
+1823;Velocity III 
+1824;Cure I 
+1825;Cure II 
+1826;Cure III 
+1827;Defenceless I 
+1828;Defenceless II 
+1829;Defenceless III 
+1830;Shield Smash I 
+1831;Shield Smash II 
+1832;Shield Smash III 
+1833;Warp Stone 
+1834;Dancing Temptation 
+1835;Epaulet of Dancing Temptation 
+1836;Wild Western 
+1837;Epaulet of Wild Western 
+1838;Giftbox - Dancing Temptation 
+1839;Giftbox - Wild Western 
+1840;Dancing Temptation Mask 
+1841;Mask of Dancing Temptation 
+1842;Wild Western Hat 
+1843;Hat of Wild Western 
+1844;Blessing Bead - Dummy 
+1845;Blessing Bead - T Point (100%) 
+1846;Blessing Bead - WEXP (10%) 
+1847;Skill Book (Flash Draw) 
+1848;Skill Book (Impact Stab) 
+1849;Skill Book (Power Stab) 
+1850;Skill Book (Stab Slash) 
+1851;Skill Book (Force Stab) 
+1852;Skill Book (Raging Thrust) 
+1853;Skill Book (Death Cross) 
+1854;Skill Book (Wild Strike) 
+1855;Skill Book (Illusion Stab) 
+1856;Skill Book (Heavy Slash) 
+1857;Skill Book (Power Slash) 
+1858;Skill Book (Press Impact) 
+1859;Skill Book (Slash Break) 
+1860;Skill Book (Rolling Crash) 
+1861;Skill Book (Guillotine) 
+1862;Skill Book (Double Slash) 
+1863;Skill Book (Force Slash) 
+1864;Skill Book (Triple Slash) 
+1865;Skill Book (Force Break) 
+1866;Skill Book (Hasing Dance) 
+1867;Skill Book (Force Drive) 
+1868;Skill Book (Rising Shot) 
+1869;Skill Book (Rising Blade) 
+1870;Skill Book (Double Rising) 
+1871;Skill Book (Soaring Shot) 
+1872;Skill Book (Cascade Break) 
+1873;Skill Book (Storm Grind) 
+1874;Skill Book (Earth Divide) 
+1875;Skill Book (Dance of Ruin) 
+1876;Skill Book (Charge) 
+1877;Skill Book (Assault) 
+1878;Skill Book (Shield Charge) 
+1879;Skill Book (Force Assault) 
+1880;Skill Book (Whirlwind) 
+1881;Skill Book (Blade Scud) 
+1882;Skill Book (Shield Break) 
+1883;Skill Book (Infernal Impact) 
+1884;Skill Book (Round Cut) 
+1885;Skill Book (Spiral Doom) 
+1886;Skill Book (Mirage Grind) 
+1887;Skill Book (Storm Crush) 
+1888;Skill Book (Infernal Stigma) 
+1889;Skill Book (Sword Cannon) 
+1890;Skill Book (Twin-moon Slash) 
+1891;Skill Book (Shield Ray) 
+1892;Skill Book (Abyssal Crystal) 
+1893;Skill Book (Terra Break) 
+1894;Skill Book (Blade Cry) 
+1895;Skill Book (Shield Explosion) 
+1896;Skill Book (Force Impact) 
+1897;Skill Book (Seismic Wave) 
+1898;Skill Book (Lightning Slash) 
+1899;Skill Book (Shield Splinter) 
+1900;Skill Book (Assassinate) 
+1901;Skill Book (Force Kick) 
+1902;Skill Book (Vital Interfere) 
+1903;Skill Book (Provocation) 
+1904;Skill Book (Magic Arrow) 
+1905;Skill Book (Terra Arrow) 
+1906;Skill Book (Aqua Arrow) 
+1907;Skill Book (w)ind Arrow) 
+1908;Skill Book (Fire Arrow) 
+1909;Skill Book (Freezing Arrow) 
+1910;Skill Book (Lightning Arrow) 
+1911;Skill Book (Magic Blast) 
+1912;Skill Book (St)one Blast) 
+1913;Skill Book (Aqua Blast) 
+1914;Skill Book (Wind Blast) 
+1915;Skill Book (Fire Blast) 
+1916;Skill Book (Ice Blast) 
+1917;Skill Book (Lightning Blast) 
+1918;Skill Book (Magic Lance) 
+1919;Skill Book (Terra Lance) 
+1920;Skill Book (Aqua Lance) 
+1921;Skill Book (Wind Lance) 
+1922;Skill Book (Fire Lance) 
+1923;Skill Book (Freezing Lance) 
+1924;Skill Book (Lightning Lance) 
+1925;Skill Book (Magic Cannon) 
+1926;Skill Book (Stone Cannon) 
+1927;Skill Book (Aqua Cannon) 
+1928;Skill Book (Wind Cannon) 
+1929;Skill Book (Fire Cannon) 
+1930;Skill Book (Crystal Cannon) 
+1931;Skill Book (Lightning Cannon) 
+1932;Skill Book (Burning Hand) 
+1933;Skill Book (Freeze) 
+1934;Skill Book (Dig Bomb) 
+1935;Skill Book (Icicle Shower) 
+1936;Skill Book (Wind Cutter) 
+1937;Skill Book (Hydro Disk) 
+1938;Skill Book (Lightning Strike) 
+1939;Skill Book (Acid Trap) 
+1940;Skill Book (Vacuum) 
+1941;Skill Book (Chain Explosion) 
+1942;Skill Book (Hail Storm) 
+1943;Skill Book (Extreme Dual Cannon) 
+1944;Skill Book (Arctic Field) 
+1945;Skill Book (Space Collapse) 
+1946;Skill Book (Power Shot) 
+1947;Skill Book (Critical Shot) 
+1948;Skill Book (Explosion Shot) 
+1949;Skill Book (Poison Arrow) 
+1950;Skill Book (Shadow Shot) 
+1951;Skill Book (Drilled Shot) 
+1952;Skill Book (Prismatic Arrow) 
+1953;Skill Book (Gravity Distortion) 
+1954;Skill Book (Shooting Star) 
+1955;Skill Book (Shield Shock) 
+1956;Skill Book (Flying Shield) 
+1957;Skill Book (Blade of Judgement) 
+1958;Skill Book (Blade Force) 
+1959;Skill Book (Blade Aura) 
+1960;Skill Book (Soul Blade) 
+1961;Skill Book (Concentration) 
+1962;Skill Book (Iron skin) 
+1963;Skill Book (Aura Barrier) 
+1964;Skill Book (Panic Cry) 
+1965;Skill Book (Field of Fear) 
+1966;Skill Book (Dash) 
+1967;Skill Book (Fade Step) 
+1968;Skill Book (Instant Immunity) 
+1969;Skill Book (Mirage Step) 
+1970;Skill Book (Natural Hiding) 
+1971;Skill Book (Intuition) 
+1972;Skill Book (Art of Fierceness) 
+1973;Skill Book (Intense Blade) 
+1974;Skill Book (Down Breaker) 
+1975;Skill Book (Morale Shout) 
+1976;Skill Book (Fury Shout) 
+1977;Skill Book (Cat's Recovery) 
+1978;Skill Book (Bear's Vitality) 
+1979;Skill Book (Bloody Spirit) 
+1980;Skill Book (Art of Shout) 
+1981;Skill Book (Resist intension) 
+1982;Skill Book (Shadow Shield) 
+1983;Skill Book (Art of Defense) 
+1984;Skill Book (Art of Force Control) 
+1985;Skill Book (Raise Spirit) 
+1986;Skill Book (Mass Restore) 
+1987;Skill Book (High Regeneration) 
+1988;Skill Book (Regeneration) 
+1989;Skill Book (Weaken) 
+1990;Skill Book (Hardness) 
+1991;Skill Book (Energy Field) 
+1992;Skill Book (Blink) 
+1993;Skill Book (Spirit Intension) 
+1994;Skill Book (Force Increase) 
+1995;Skill Book (Precision) 
+1996;Skill Book (Repulsive Armor) 
+1997;Skill Book (Blind) 
+1998;Skill Book (Eagle Eye) 
+1999;Skill Book (Lower Defense) 
+2000;Skill Book (Sharpness) 
+2001;Skill Book (Mana Condense) 
+2002;Skill Book (Vital Force) 
+2003;Skill Book (Greater Heal) 
+2004;Skill Book (Vital Bless) 
+2005;Skill Book (Mass Heal) 
+2006;Skill Book (Crushing Blade) 
+2007;Skill Book (Heal) 
+2008;Skill Book (Shield Harden) 
+2009;Skill Book (Mortal Bane) 
+2010;Skill Book (Enchant) 
+2011;Skill Book (Earth Guard) 
+2012;Skill Book (Aqua Vitality) 
+2013;Skill Book (Wind Movement) 
+2014;Skill Book (Fire Blade) 
+2015;Skill Book (Guard Break) 
+2016;Skill Book (Lightning Blade) 
+2017;Skill Book (Ice Blade) 
+2018;Skill Book (Enervation) 
+2019;Skill Book (Execration 
+2020;Skill Book (Hard Luck) 
+2021;Skill Book (Darkness) 
+2022;Skill Book (Mana Freeze) 
+2023;Skill Book (Field of Enervation) 
+2024;Skill Book (Field of Execration) 
+2025;Skill Book (Thrusting Arrow) 
+2026;Skill Book (Art of Healing) 
+2027;Skill Book (Art of Sniping) 
+2028;Skill Book (Vitality Mastery Lv.1) 
+2029;Skill Book (Vitality Mastery Lv.2) 
+2030;Skill Book (Vitality Mastery Lv.3) 
+2031;Skill Book (Vitality Mastery Lv.4) 
+2032;Skill Book (Vitality Mastery Lv.5) 
+2033;Skill Book (Vitality Mastery Lv.6) 
+2034;Skill Book (Vitality Mastery Lv.7) 
+2035;Skill Book (Vitality Mastery Lv.8) 
+2036;Skill Book (Vitality Mastery Lv.9) 
+2037;Skill Book (Vitality Mastery Lv.10) 
+2038;Skill Book (Mana Mastery Lv.1) 
+2039;Skill Book (Mana Mastery Lv.2) 
+2040;Skill Book (Mana Mastery Lv.3) 
+2041;Skill Book (Mana Mastery Lv.4) 
+2042;Skill Book (Mana Mastery Lv.5) 
+2043;Skill Book (Mana Mastery Lv.6) 
+2044;Skill Book (Mana Mastery Lv.7) 
+2045;Skill Book (Mana Mastery Lv.8) 
+2046;Skill Book (Mana Mastery Lv.9) 
+2047;Skill Book (Mana Mastery Lv.10) 
+2048;Skill Book (Offensive Sense Lv.1) 
+2049;Skill Book (Offensive Sense Lv.2) 
+2050;Skill Book (Offensive Sense Lv.3) 
+2051;Skill Book (Offensive Sense Lv.4) 
+2052;Skill Book (Offensive Sense Lv.5) 
+2053;Skill Book (Offensive Sense Lv.6) 
+2054;Skill Book (Offensive Sense Lv.7) 
+2055;Skill Book (Offensive Sense Lv.8) 
+2056;Skill Book (Defensive Sense Lv.1) 
+2057;Skill Book (Defensive Sense Lv.2) 
+2058;Skill Book (Defensive Sense Lv.3) 
+2059;Skill Book (Defensive Sense Lv.4) 
+2060;Skill Book (Defensive Sense Lv.5) 
+2061;Skill Book (Defensive Sense Lv.6) 
+2062;Skill Book (Defensive Sense Lv.7) 
+2063;Skill Book (Defensive Sense Lv.8) 
+2064;Skill Book (Force Control Lv.1) 
+2065;Skill Book (Force Control Lv.2) 
+2066;Skill Book (Force Control Lv.3) 
+2067;Skill Book (Force Control Lv.4) 
+2068;Skill Book (Force Control Lv.5) 
+2069;Skill Book (Force Control Lv.6) 
+2070;Skill Book (Force Control Lv.7) 
+2071;Skill Book (Force Control Lv.8) 
+2072;Skill Book (Reflex Lv.1) 
+2073;Skill Book (Reflex Lv.2) 
+2074;Skill Book (Reflex Lv.3) 
+2075;Skill Book (Reflex Lv.4) 
+2076;Skill Book (Reflex Lv.5) 
+2077;Skill Book (Reflex Lv.6) 
+2078;Skill Book (Reflex Lv.7) 
+2079;Skill Book (Reflex Lv.8) 
+2080;Skill Book (Reflex Lv.9) 
+2081;Skill Book (Sharp Eyes Lv.1) 
+2082;Skill Book (Sharp Eyes Lv.2) 
+2083;Skill Book (Sharp Eyes Lv.3) 
+2084;Skill Book (Sharp Eyes Lv.4) 
+2085;Skill Book (Sharp Eyes Lv.5) 
+2086;Skill Book (Sharp Eyes Lv.6) 
+2087;Skill Book (Sharp Eyes Lv.7) 
+2088;Skill Book (Sharp Eyes Lv.8) 
+2089;Skill Book (Sharp Eyes Lv.9) 
+2090;Skill Book (Eyes of Mind Lv.1) 
+2091;Skill Book (Eyes of Mind Lv.2) 
+2092;Skill Book (Eyes of Mind Lv.3) 
+2093;Skill Book (Sixth Sense Lv.1) 
+2094;Skill Book (Sixth Sense Lv.2) 
+2095;Skill Book (Sixth Sense Lv.3) 
+2096;Skill Book (Ruling Force Lv.1) 
+2097;Skill Book (Ruling Force Lv.2) 
+2098;Skill Book (Ruling Force Lv.3) 
+2099;Skill Book (Impact Control Lv.1) 
+2100;Skill Book (Impact Control Lv.2) 
+2101;Skill Book (Impact Control Lv.3) 
+2102;Skill Book (Damage Absorb Lv.1) 
+2103;Skill Book (Damage Absorb Lv.2) 
+2104;Skill Book (Damage Absorb Lv.3) 
+2105;Skill Book (Combo Start) 
+2106;Skill Book (Astral Bike) 
+2107;Skill Book (Magic Arrow (FA)) 
+2108;Skill Book (Terra Arrow (FA)) 
+2109;Skill Book (Aqua Arrow (FA)) 
+2110;Skill Book (Wind Arrow (FA)) 
+2111;Skill Book (Fire Arrow (FA)) 
+2112;Skill Book (Freezing Arrow (FA)) 
+2113;Skill Book (Lightning Arrow (FA)) 
+2114;Skill Book (Magic Blast (FA)) 
+2115;Skill Book (Stone Blast (FA)) 
+2116;Skill Book (Aqua Blast (FA)) 
+2117;Skill Book (Wind Blast (FA)) 
+2118;Skill Book (Fire Blast (FA)) 
+2119;Skill Book (Ice Blast (FA)) 
+2120;Skill Book (Lightning Blast (FA)) 
+2121;Skill Book (Magic Lance (FA)) 
+2122;Skill Book (Terra Lance (FA)) 
+2123;Skill Book (Aqua Lance (FA)) 
+2124;Skill Book (Wind Lance (FA)) 
+2125;Skill Book (Fire Lance (FA)) 
+2126;Skill Book (Freezing Lance (FA)) 
+2127;Skill Book (Lightning Lance (FA)) 
+2128;Skill Book (Magic Cannon (FA)) 
+2129;Skill Book (Stone Cannon (FA)) 
+2130;Skill Book (Aqua Cannon (FA)) 
+2131;Skill Book (Wind Cannon (FA)) 
+2132;Skill Book (Fire Cannon (FA)) 
+2133;Skill Book (Crystal Cannon (FA)) 
+2134;Skill Book (Lightning Cannon (FA)) 
+2135;Skill Book (Astral Board) 
+2136;Skill Book (Mighty Wish) 
+2137;Skill Book (Field of Provocation) 
+2138;Traditional German Dress 
+2139;Epaulet of Traditional German Dress 
+2140;Giftbox - Traditional German Dress 
+2141;- 
+2142;- 
+2143;Plate of Honor (Lv. 1) 
+2144;Plate of Honor (Lv. 2) 
+2145;Plate of Honor (Lv. 3) 
+2146;Plate of Honor (Lv. 4) 
+2147;Plate of Soul 
+2148;Entrance Item of Lake in Dusk (DT) 
+2149;Entrance Item of Ruina Station (DT) 
+2150;Entrance Item of Frozen Tower of Undead B1F (DT) 
+2151;Blessing Bead - EXP (40%) 
+2152;Blessing Bead - Skill EXP (40%) 
+2153;Buff Potion Lv.1 (HP Up) 
+2154;Buff Potion Lv.1 (Attack Up) 
+2155;Buff Potion Lv.1 (Magic Attack Up) 
+2156;Buff Potion Lv.1 (Defense Up) 
+2157;Buff Potion Lv.2 (HP Up) 
+2158;Buff Potion Lv.2 (Attack Up) 
+2159;Buff Potion Lv.2 (Magic Attack Up) 
+2160;Buff Potion Lv.2 (Defense Up) 
+2161;Buff Potion Lv.3 (HP Up) 
+2162;Buff Potion Lv.3 (Attack Up) 
+2163;Buff Potion Lv.3 (Magic Attack Up) 
+2164;Buff Potion Lv.3 (Defense Up) 
+2165;Giftbox - Funny Christmas - Orb/Crystal 
+2166;Giftbox - Funny Christmas - Katana/Daikatana 
+2167;Giftbox - Funny Christmas - Blade/Greatsword 
+2168;Giftbox - Snow Ice - Orb/Crystal 
+2169;Giftbox - Snow Ice - Katana/Daikatana 
+2170;Giftbox - Snow Ice - Blade/Greatsword 
+2171;Giftbox - Snow Star - Orb/Crystal 
+2172;Giftbox - Snow Star - Katana/Daikatana 
+2173;Giftbox - Snow Star - Blade/Greatsword 
+2174;Giftbox - Water Elemental - Orb/Crystal 
+2175;Giftbox - Water Elemental - Katana/Daikatana 
+2176;Giftbox - Water Elemental - Blade/Great Sword 
+2177;STR Potion (beginner) 
+2178;Magic Potion (beginner) 
+2179;Celebrate CABAL Birthday 
+2180;CABAL Birthday Ring 
+2181;Steamer Crazy Entry Item 
+2182;Giftbox - Korean Gala Dress Epaulet (30 days) 
+2183;Giftbox - Korean Gala Dress Epaulet (90 days) 
+2184;Giftbox - Astral Board Card - K Silver 
+2185;Giftbox - Astral Board Card - K Black 
+2186;Giftbox - Astral Board Card - K Gold 
+2187;Giftbox - Astral Board Card - K Red 
+2188;Giftbox - Astral Board Card - K Pink 
+2189;Giftbox - Astral Board Card - K Violet 
+2190;Giftbox - Astral Board Card - K Blue 
+2191;Giftbox - Astral Board Card - K Sky 
+2192;Giftbox - Astral Board Card - K Green 
+2193;Giftbox - Astral Board Card - K White 
+2194;Blessing Bead - EXP (50%) 
+2195;Blessing Bead - EXP (100%) 
+2196;Blessing Bead - Craft EXP (100%) 
+2197;Blessing Bead - Alz Bomb Chance (100%) 
+2198;Giftbox - Santa's Sleigh 
+2199;Blessing Bead - EXP (80%) 
+2200;Blessing Bead - AXP (40%) 
+2201;Blessing Bead - AXP (80%) 
+2202;Entrance Item of Illusion Castle - Underworld 
+2203;The Mergaheph's ring 
+2204;Belt of Rapid 
+2205;Belt of Rapid +1 
+2206;Belt of Rapid +2 
+2207;Belt of Rapid +3 
+2208;Belt of Rapid +4 
+2209;Belt of Vital 
+2210;Belt of Vital +1 
+2211;Belt of Vital +2 
+2212;Belt of Vital +3 
+2213;Belt of Vital +4 
+2214;Belt of Guard 
+2215;Belt of Guard +1 
+2216;Belt of Guard +2 
+2217;Belt of Guard +3 
+2218;Belt of Guard +4 
+2219;Belt of Prevent 
+2220;Belt of Prevent +1 
+2221;Belt of Prevent +2 
+2222;Belt of Prevent +3 
+2223;Belt of Prevent +4 
+2224;Belt of Damp 
+2225;Belt of Damp +1 
+2226;Belt of Damp +2 
+2227;Belt of Damp +3 
+2228;Belt of Damp +4 
+2229;Ring of Evil Spirit 
+2230;Lycanus's Orb 
+2231;Lycanus' Crystal 
+2232;Lycanus's Katana 
+2233;Lycanus's Blade 
+2234;Lycanus's Daikatana 
+2235;Lycanus's Great Sword 
+2236;Midreth Armor Set 
+2237;Epaulet of Midereth Armor 
+2238;Pastur Battle Set 
+2239;Epaulet of Pastur Battle 
+2240;Huan Martial Set 
+2241;Epaulet of Hual Martial 
+2242;Giftbox - Midreth Armor Set 
+2243;Giftbox - Pastur Battle Set 
+2244;Giftbox - Huan Martial Set 
+2245;Pet - Cute Rudolph 
+2246;Blessing Bead - Platinum Wing 
+2247;Blessing Bead - Silver Wing (Academy Kit) 
+2248;Blessing Bead - Silver Wing (Craftsman Kit) 
+2249;Blessing Bead - Silver Wing (Adventurer Kit) 
+2250;Blessing Bead - CABAL Leader's Choice 
+2251;Blessing Bead - Dummy 
+2252;Blessing Bead - Dummy 
+2253;Blessing Bead - Dummy 
+2254;Catacomb Frost Entry Item 
+2255;Illusion Castle - Radiant Hall Entry Item 
+2256;Drosnin's Earrings 
+2257;Brazil Soccer Uniform 
+2258;Epaulet of Brazil Soccer Uniform 
+2259;Kendo Suit 
+2260;Epaulet of Kendo Suit 
+2261;Giftbox - Brazil Soccer Uniform 
+2262;Giftbox - Kendo Suit 
+2263;Shineguard Set 
+2264;Epaulet of Shineguard 
+2265;Teragrace Set 
+2266;Epaulet of Teragrace 
+2267;Mystic Set 
+2268;Epaulet of Mystic 
+2269;SIGMetal Armor Set 
+2270;Epaulet of SIGMetal Armor 
+2271;SIGMetal Battle Set 
+2272;Epaulet of SIGMetal Battle 
+2273;SIGMetal Martial Set 
+2274;Epaulet of SIGMetal Martial 
+2275;Mithril Armor Set 
+2276;Epaulet of Mithril Armor 
+2277;Mithril Battle Set 
+2278;Epaulet of Mithril Battle 
+2279;Mithril Martial Set 
+2280;Epaulet of Mithril Martial 
+2281;Giftbox - Shineguard Set 
+2282;Giftbox - Teragrace Set 
+2283;Giftbox - Mystic Set 
+2284;Giftbox - SIGMetal Armor Set 
+2285;Giftbox - SIGMetal Battle Set 
+2286;Giftbox - SIGMetal Martial Set 
+2287;Giftbox - Mithril Armor Set 
+2288;Giftbox - Mithril Battle Set 
+2289;Giftbox - Mithril Martial Set 
+2290;Midreth Armor helmet 
+2291;Pastur Battle helmet 
+2292;Huan Martial helmet 
+2293;Shineguard Visor 
+2294;Teragrace Headgear 
+2295;Mystic Headpiece 
+2296;SIGMetal Visor 
+2297;SIGMetal Headgear 
+2298;SIGMetal Headpiece 
+2299;Mithril Visor 
+2300;Mithril Headgear 
+2301;Mithril Headpiece 
+2302;Change Kit (Face) - Extreme Type A 
+2303;Change Kit (Face) - Extreme Type B 
+2304;Change Kit (Face) - Festival Type A 
+2305;Change Kit (Face) - Festival Type B 
+2306;Change Kit (Hair Style) - Oriental Type A 
+2307;Change Kit (Hair Style) - Fever Type A 
+2308;Change Kit (Hair Style) - Oriental Type B 
+2309;Change Kit (Hair Style) - Fever Type B 
+2310;Blessing Bead - Skill EXP/SP Boost (20000%) 
+2311;Skill Book (Sword Quake) 
+2312;Skill Book (Death Tempest) 
+2313;Skill Book (Shield Grenade) 
+2314;Skill Book (Seal of Damnation) 
+2315;Skill Book (Meteorite) 
+2316;Skill Book (Sonic Shooter) 
+2317;Agent Shop Coupon 
+2318;Megaphone 
+2319;Blessing Bead - Plus (Japan Exclusive) 
+2320;Grandma Yerte's Jade Earrings 
+2321;Grandma Yerte's Enamel Bracelet 
+2322;Grandma Yerte's Jewelry Box 
+2323;Key of Chaos Lv. 1 
+2324;Key of Chaos Lv. 2 
+2325;Key of Chaos Lv. 3 
+2326;Key of Chaos Lv. 4 
+2327;Key of Chaos Lv. 5 
+2328;Key of Chaos Lv. 6 
+2329;Wonder Box - SIGMetal Orb 
+2330;Wonder Box - SIGMetal Crystal 
+2331;Wonder Box - SIGMetal Katana 
+2332;Wonder Box - SIGMetal Blade 
+2333;Wonder Box - SIGMetal Daikatana 
+2334;Wonder Box - SIGMetal Greatsword 
+2335;Remote Warehouse Card 
+2336;Plate of Glory 
+2337;Frontier Stone 
+2338;Holy Water of Vitality 
+2339;Holy Water of Speed 
+2340;Holy Water of Traveler 
+2341;Holy Water of Critical Strike 
+2342;Holy Water of Fighter 
+2343;Holy Water of Sage 
+2344;Holy Water of Resistance 
+2345;Holy Water of Flawless Defense 
+2346;Pet Slot Extender 
+2347;Costume Hanger 
+2348;Skill Book (Offensive Bless ) 
+2349;Skill Book (Curse Remove) 
+2350;Skill Book (Curse Dodge) 
+2351;Skill Book (Fatality Increase) 
+2352;Chaos Box - Extender (Highest) 
+2353;Summon of Heroes 
+2354;Honorable Circle 
+2355;Oath of Sacrifice 
+2356;Oath of Protection 
+2357;Yekaterina Gold Membership  
+2358;Halloween Horror - Orb/Crystal  
+2359;Halloween Horror - Katana/Daikatana  
+2360;Halloween Horror - Blade/Great Sword  
+2361;GiftBox - Halloween Horror - Orb/Crystal  
+2362;GiftBox - Halloween Horror - Katana/Daikatana  
+2363;GiftBox - Halloween Horror - Blade/Great Sword  
+2364;CABAL Gift Voucher (Bronze) 
+2365;CABAL Gift Voucher (Silver) 
+2366;CABAL Gift Voucher (Gold) 
+2367;Panic Cave Premium Entry Item 
+2368;Steamer Crazy Premium Entry Item 
+2369;Catacomb Frost Premium Entry Item 
+2370;Blessing Bead - W. Tower of Undead B1F 
+2371;Astral Board Card - K Red Crystal Edition 
+2372;Giftbox - Astral Board Card - K Red Crystal Edition 
+2373;Max Critical Rate Up 
+2374;Critical DMG 
+2375;Special Badge 
+2376;SIGMetal Weapon Coupon 
+2377;Premium Shop Sign 
+2378;Enchant Safeguard (Low) 
+2379;Enchant Safeguard (Medium) 
+2380;Enchant Safeguard (High) 
+2381;Enchant Safeguard (Highest) 
+2382;Aura Transmuter 
+2383;Japanese Chaos Lamp 
+2384;Chaos Infinity Entry Item 
+2385;Shineguard Cube (WA) 
+2386;SIGMetal Cube (WA) 
+2387;Mithril Cube (WA) 
+2388;Mystic Cube (BL) 
+2389;SIGMetal Cube (BL) 
+2390;Mithril Cube (BL) 
+2391;Mystic Cube (WI) 
+2392;SIGMetal Cube (WI) 
+2393;Mithril Cube (WI) 
+2394;Teragrace Cube (FA) 
+2395;SIGMetal Cube (FA) 
+2396;Mithril Cube (FA) 
+2397;Shineguard Cube (FS) 
+2398;SIGMetal Cube (FS) 
+2399;Mithril Cube (FS) 
+2400;Teragrace Cube (FB) 
+2401;SIGMetal Cube (FB) 
+2402;Mithril Cube (FB) 
+2403;Essence Rune Cube 
+2404;Protection of Veradrix 
+2405;Blessing Bead - DummyData1 
+2406;Blessing Bead - DummyData2 
+2407;Blessing Bead - EXP (150%) 
+2408;Blessing Bead - EXP (200%) 
+2409;Blessing Bead - Skill EXP (150%) 
+2410;Blessing Bead - WEXP (75%) 
+2411;Blessing Bead - WEXP (100%) 
+2412;Blessing Bead - AXP (100%) 
+2413;Blessing Bead - AXP (200%) 
+2414;Blessing Bead - Pet EXP (200%) 
+2415;Blessing Bead - Pet EXP (300%) 
+2416;Concentration Potion (Lv. 1) 
+2417;Concentration Potion (Lv. 2) 
+2418;Concentration Potion (Lv. 3) 
+2419;Concentration Potion (Lv. 4) 
+2420;Reflex Potion (Lv. 1) 
+2421;Reflex Potion (Lv. 2) 
+2422;Reflex Potion (Lv. 3) 
+2423;Reflex Potion (Lv. 4) 
+2424;Vital Potion (Lv. 1) 
+2425;Vital Potion (Lv. 2) 
+2426;Vital Potion (Lv. 3) 
+2427;Vital Potion (Lv. 4) 
+2428;Sharpness Potion (Lv. 1) 
+2429;Sharpness Potion (Lv. 2) 
+2430;Sharpness Potion (Lv. 3) 
+2431;Sharpness Potion (Lv. 4) 
+2432;Mana Condense Potion (Lv. 1) 
+2433;Mana Condense Potion (Lv. 2) 
+2434;Mana Condense Potion (Lv. 3) 
+2435;Mana Condense Potion (Lv. 4) 
+2436;Vital Regen Potion (Lv. 1) 
+2437;Vital Regen Potion (Lv. 2) 
+2438;Vital Regen Potion (Lv. 3) 
+2439;Vital Regen Potion (Lv. 4) 
+2440;Hardness Potion (Lv. 1) 
+2441;Hardness Potion (Lv. 2) 
+2442;Hardness Potion (Lv. 3) 
+2443;Hardness Potion (Lv. 4) 
+2444;Strike Potion (Lv. 1) 
+2445;Strike Potion (Lv. 2) 
+2446;Strike Potion (Lv. 3) 
+2447;Strike Potion (Lv. 4) 
+2448;Sword Master Potion (Lv. 1) 
+2449;Sword Master Potion (Lv. 2) 
+2450;Sword Master Potion (Lv. 3) 
+2451;Sword Master Potion (Lv. 4) 
+2452;Magic Master Potion (Lv. 1) 
+2453;Magic Master Potion (Lv. 2) 
+2454;Magic Master Potion (Lv. 3) 
+2455;Magic Master Potion (Lv. 4) 
+2456;Evasion Potion (Lv. 1) 
+2457;Evasion Potion (Lv. 2) 
+2458;Evasion Potion (Lv. 3) 
+2459;Evasion Potion (Lv. 4) 
+2460;Goodluck Potion (Lv. 1) 
+2461;Goodluck Potion (Lv. 2) 
+2462;Goodluck Potion (Lv. 3) 
+2463;Goodluck Potion (Lv. 4) 
+2464;CABAL Gift Voucher (Bronze) 
+2465;CABAL Gift Voucher (Silver) 
+2466;CABAL Gift Voucher (Gold) 
+2467;Gem of Covenant (Unique) 
+2468;Gem of Summons (Normal) 
+2469;Gem of Summons (Rare) 
+2470;Gem of Summons (Epic) 
+2471;Gem of Summons (Unique) 
+2472;Gem of Dazzlement (Normal) 
+2473;Gem of Dazzlement (Rare) 
+2474;Gem of Dazzlement (Epic) 
+2475;Gem of Dazzlement (Unique) 
+2476;Corrupt Warrior (Normal) 
+2477;Corrupt Warrior (Rare) 
+2478;Corrupt Warrior (Epic) 
+2479;Corrupt Warrior (Unique) 
+2480;Corrupt Blader (Normal) 
+2481;Corrupt Blader (Rare) 
+2482;Corrupt Blader (Epic) 
+2483;Corrupt Blader (Unique) 
+2484;Corrupt Wizard (Normal) 
+2485;Corrupt Wizard (Rare) 
+2486;Corrupt Wizard (Epic) 
+2487;Corrupt Wizard (Unique) 
+2488;Corrupt Force Archer (Normal) 
+2489;Corrupt Force Archer (Rare) 
+2490;Corrupt Force Archer (Epic) 
+2491;Corrupt Force Archer (Unique) 
+2492;Corrupt Force Shielder (Normal) 
+2493;Corrupt Force Shielder (Rare) 
+2494;Corrupt Force Shielder (Epic) 
+2495;Corrupt Force Shielder (Unique) 
+2496;Corrupt Force Blader (Normal) 
+2497;Corrupt Force Blader (Rare) 
+2498;Corrupt Force Blader (Epic) 
+2499;Corrupt Force Blader (Unique) 
+2500;Yuan (Normal) 
+2501;Yuan (Rare) 
+2502;Yuan (Epic) 
+2503;Yuan (Unique) 
+2504;Arionell (Normal) 
+2505;Arionell (Rare) 
+2506;Arionell (Epic) 
+2507;Arionell (Unique) 
+2508;Rin (Normal) 
+2509;Rin (Rare) 
+2510;Rin (Epic) 
+2511;Rin (Unique) 
+2512;Freed (Normal) 
+2513;Freed (Rare) 
+2514;Freed (Epic) 
+2515;Freed (Unique) 
+2516;Black Bard (Normal) 
+2517;Black Bard (Rare) 
+2518;Black Bard (Epic) 
+2519;Black Bard (Unique) 
+2520;Pertz von Zatellerean (Normal) 
+2521;Pertz von Zatellerean (Rare) 
+2522;Pertz von Zatellerean (Epic) 
+2523;Pertz von Zatellerean (Unique) 
+2524;Perzen Bhha (Normal) 
+2525;Perzen Bhha (Rare) 
+2526;Perzen Bhha (Epic) 
+2527;Perzen Bhha (Unique) 
+2528;Bricry (Normal) 
+2529;Bricry (Rare) 
+2530;Bricry (Epic) 
+2531;Bricry (Unique) 
+2532;Event - Yuan (Normal) 
+2533;Event - Yuan (Rare) 
+2534;Event - Yuan (Epic) 
+2535;Event - Yuan (Unique) 
+2536;Event - Arionell (Normal) 
+2537;Event - Arionell(Rare) 
+2538;Event - Arionell (Epic) 
+2539;Event - Arionell (Unique) 
+2540;Event - Rin (Normal) 
+2541;Event - Rin (Rare) 
+2542;Event - Rin (Epic) 
+2543;Event - Rin (Unique) 
+2544;Event - Freed (Normal) 
+2545;Event - Freed (Rare) 
+2546;Event - Freed (Epic) 
+2547;Event - Freed (Unique) 
+2548;Event - Black Bard (Normal) 
+2549;Event - Black Bard (Rare) 
+2550;Event - Black Bard (Epic) 
+2551;Event - Black Bard (Unique) 
+2552;Maga Eyagre (Normal) 
+2553;Maga Eyagre (Rare) 
+2554;Maga Eyagre (Epic) 
+2555;Maga Eyagre (Unique) 
+2556;Ratzel of Reason and Wind (Normal) 
+2557;Ratzel of Reason and Wind (Rare) 
+2558;Ratzel of Reason and Wind (Epic) 
+2559;Ratzel of Reason and Wind (Unique) 
+2560;Giftbox - Epaulet of Charisma Pan  
+2561;Giftbox - Epaulet of Lovely Sweety  
+2562;Giftbox - Epaulet of Mystic Blade (30 days) 
+2563;Giftbox - Epaulet of Mystic Blade 
+2564;Chaos Box - Avatar (Premium) 
+2565;Lava Hellfire Entry Item 
+2566;Lava Hellfire Premium Entry Item 
+2567;Hazardous Valley Entry Item 
+2568;Leth Tyrant's Ring 
+2569;Ring of Evil Spirit 2 
+2570;Nevareth Pirate 
+2571;Epaulet of Nevareth Pirate 
+2572;Giftbox - Nevareth Pirate 
+2573;Nevareth Pirate Tricorn Hat 
+2574;Tricorn Hat of Nevareth Pirate 
+2575;Naval Officer 
+2576;Epaulet of Naval Officer 
+2577;Giftbox - Naval Officer 
+2578;Navy Cap 
+2579;Cap of Naval Officer 
+2580;Bead Box (Bronze) 
+2581;Potion Box (Bronze) 
+2582;Skill Book Box (Bronze) 
+2583;Capsule Box (Silver) 
+2584;Entry Box (Silver) 
+2585;Potion Box (Silver) 
+2586;Skill Book Box (Silver) 
+2587;Capsule Box (Gold) 
+2588;Entry Box (Gold) 
+2589;Essence Rune Box (Gold) 
+2590;Unknown Box (Gold) 
+2591;Blessing Bead - Plus (Not Used) 
+2592;Single Snowman (Normal) 
+2593;Single Snowman (Rare) 
+2594;Single Snowman (Epic) 
+2595;Single Snowman (Unique) 
+2596;Couple Snowman (Normal) 
+2597;Couple Snowman (Rare) 
+2598;Couple Snowman (Epic) 
+2599;Couple Snowman (Unique) 
+2600;Panda's Warm Epaulet 
+2601;Blessing Bead - AXP UP (10%) 
+2602;Blessing Bead - AXP UP (50%) 
+2603;Blessing Bead - AXP UP (75%) 
+2604;Giftbox - Pumpkin Helmet 
+2605;Giftbox - Antler + Red Nose 
+2606;Giftbox - Antler 
+2607;Giftbox - Red Nose 
+2608;Giftbox - Winter Cap 
+2609;Giftbox - Earmuff 
+2610;Giftbox - X Mask 
+2611;Giftbox - Skeleton Mask 
+2612;Giftbox - Santa Hood 
+2613;Giftbox - Cutie Santa Hood 
+2614;Giftbox - Japanese Gala Headdress 
+2615;Giftbox - Korean Gala Headdress 
+2616;Giftbox - Goguryeo Headdress 
+2617;Giftbox - Sandy Mask 
+2618;Giftbox - Happy Birthday Hat 
+2619;Giftbox - CABAL Birthday Hood 
+2620;Giftbox - Dancing Temptation Mask 
+2621;Giftbox - Wild Western Hat 
+2622;Giftbox - Midreth Armor Helmet 
+2623;Giftbox - Pastur Battle Helmet 
+2624;Giftbox - Huan Martial Helmet 
+2625;Giftbox - Shineguard Visor 
+2626;Giftbox - Teragrace Headgear 
+2627;Giftbox - Mystic Headpiece 
+2628;Giftbox - SIGMetal Visor 
+2629;Giftbox - SIGMetal Headgear 
+2630;Giftbox - SIGMetal Headpiece 
+2631;Giftbox - Mithril Visor 
+2632;Giftbox - Mithril Headgear 
+2633;Giftbox - Mithril Headpiece 
+2634;Giftbox - Nevareth Pirate Tricorn Hat 
+2635;Giftbox - Navy Cap 
+2636;Maximum Level Rabbit (Normal) 
+2637;Maximum Level Rabbit (Rare) 
+2638;Maximum Level Rabbit (Epic) 
+2639;Maximum Level Rabbit (Unique) 
+2640;Mixture (Lv. 3) 
+2641;Mixture (Lv. 4) 
+2642;Mixture (Lv. 5) 
+2643;Mixture (Lv. 6) 
+2644;Sword Damage Amplifier (Lv. 3) 
+2645;Sword Damage Amplifier (Lv. 4) 
+2646;Sword Damage Amplifier (Lv. 5) 
+2647;Sword Damage Amplifier (Lv. 6) 
+2648;Magic Damage Amplifier (Lv. 3) 
+2649;Magic Damage Amplifier (Lv. 4) 
+2650;Magic Damage Amplifier (Lv. 5) 
+2651;Magic Damage Amplifier (Lv. 6) 
+2652;Bike Upgrade Kit (Low) 
+2653;Bike Upgrade Kit (Medium) 
+2654;Bike Upgrade Kit (High) 
+2655;Bike Upgrade Kit (Highest) 
+2656;Bike Perfect Upgrade Kit (Low) 
+2657;Bike Perfect Upgrade Kit (Medium) 
+2658;Bike Perfect Upgrade Kit (High) 
+2659;Bike Perfect Upgrade Kit (Highest) 
+2660;Bike Force Kit (Low) 
+2661;Bike Force Kit (Medium) 
+2662;Bike Force Kit (High) 
+2663;Bike Force Kit (Highest) 
+2664;Bike Slot Extender (Low) 
+2665;Bike Slot Extender (Medium) 
+2666;Bike Slot Extender (High) 
+2667;Bike Slot Extender (Highest) 
+2668;Bike Kit Enhancer (Low) 
+2669;Bike Kit Enhancer (Medium) 
+2670;Bike Kit Enhancer (High) 
+2671;Bike Kit Enhancer (Highest) 
+2672;Bike Coating Kit (Dark Red) 
+2673;Bike Coating Kit (Dark Blue) 
+2674;Bike Coating Kit (Burnt Yellow) 
+2675;Bike Coating Kit (Dark Viridian) 
+2676;Bike Coating Kit (Iron Yellow) 
+2677;Bike Coating Kit (Perm. Dark Red) 
+2678;Bike Coating Kit (Dark Ultra Marine) 
+2679;Giant SnakeS 
+2680;CorpseN 
+2681;CoffinN 
+2682;FungusN 
+2683;Red FungusN 
+2684;KistS 
+2685;Cannibal PlantN 
+2686;PumpkinS 
+2687;SignN 
+2688;TelescopeS 
+2689;HeartS 
+2690;KeyS 
+2691;Circuit PartS 
+2692;BoomerangS 
+2693;ClawS 
+2694;MirrorN 
+2695;BreadN 
+2696;NetN 
+2697;ArmbandN 
+2698;A piece of ArmbandN 
+2699;Blue LiquidN 
+2700;HoneyN 
+2701;Red BottleS 
+2702;Weapon Option Scroll (Low) 
+2703;Weapon Option Scroll (Medium) 
+2704;Weapon Option Scroll (High) 
+2705;Weapon Option Scroll (Highest) 
+2706;Armor Option Scroll (Low) 
+2707;Armor Option Scroll (Medium) 
+2708;Armor Option Scroll (High) 
+2709;Armor Option Scroll (Highest) 
+2710;Drei Frame Plate (WA) 
+2711;Drei Frame Plate (FS) 
+2716;Drei Frame Gauntlet (WA) 
+2717;Drei Frame Gauntlet (FS) 
+2722;Drei Frame Greaves (WA) 
+2723;Drei Frame Greaves (FS) 
+2728;Drei Frame Visor (WA) 
+2729;Drei Frame Visor (FS) 
+2712;Drei Frame Coat (FB) 
+2713;Drei Frame Coat (FA) 
+2718;Drei Frame Gloves (FB) 
+2719;Drei Frame Gloves (FA) 
+2724;Drei Frame Boots (FB) 
+2725;Drei Frame Boots (FA) 
+2730;Drei Frame Headgear (FB) 
+2731;Drei Frame Headgear (FA) 
+2714;Drei Frame Suit (BL) 
+2715;Drei Frame Suit (WI) 
+2720;Drei Frame Hands (BL) 
+2721;Drei Frame Hands (WI) 
+2726;Drei Frame Shoes (BL) 
+2727;Drei Frame Shoes (WI) 
+2732;Drei Frame Headpiece (BL) 
+2733;Drei Frame Headpiece (WI) 
+2734;Drei Frame Epaulet of Guardian 
+2735;Drei Frame Epaulet of Fighter 
+2736;Drei Frame Epaulet of Sage 
+2737;Upgrade Core Cube 
+2738;Bluestin Plate (WA) 
+2739;Bluestin Plate (FS) 
+2744;Bluestin Gauntlet (WA) 
+2745;Bluestin Gauntlet (FS) 
+2750;Bluestin Greaves (WA) 
+2751;Bluestin Greaves (FS) 
+2756;Bluestin Visor (WA) 
+2757;Bluestin Visor (FS) 
+2740;Bluestin Coat (FB) 
+2741;Bluestin Coat (FA) 
+2746;Bluestin Gloves (FB) 
+2747;Bluestin Gloves (FA) 
+2752;Bluestin Boots (FB) 
+2753;Bluestin Boots (FA) 
+2758;Bluestin Headgear (FB) 
+2759;Bluestin Headgear (FA) 
+2742;Bluestin Suit (BL) 
+2743;Bluestin Suit (WI) 
+2748;Bluestin Hands (BL) 
+2749;Bluestin Hands (WI) 
+2754;Bluestin Shoes (BL) 
+2755;Bluestin Shoes (WI) 
+2760;Bluestin Headpiece (BL) 
+2761;Bluestin Headpiece (WI) 
+2762;Titanium Plate (WA) 
+2763;Titanium Plate (FS) 
+2768;Titanium Gauntlet (WA) 
+2769;Titanium Gauntlet (FS) 
+2774;Titanium Greaves (WA) 
+2775;Titanium Greaves (FS) 
+2780;Titanium Visor (WA) 
+2781;Titanium Visor (FS) 
+2764;Titanium Coat (FB) 
+2765;Titanium Coat (FA) 
+2770;Titanium Gloves (FB) 
+2771;Titanium Gloves (FA) 
+2776;Titanium Boots (FB) 
+2777;Titanium Boots (FA) 
+2782;Titanium Headgear (FB) 
+2783;Titanium Headgear (FA) 
+2766;Titanium Suit (BL) 
+2767;Titanium Suit (WI) 
+2772;Titanium Hands (BL) 
+2773;Titanium Hands (WI) 
+2778;Titanium Shoes (BL) 
+2779;Titanium Shoes (WI) 
+2784;Titanium Headpiece (BL) 
+2785;Titanium Headpiece (WI) 
+2786;Osmium Plate (WA) 
+2787;Osmium Plate (FS) 
+2792;Osmium Gauntlet (WA) 
+2793;Osmium Gauntlet (FS) 
+2798;Osmium Greaves (WA) 
+2799;Osmium Greaves (FS) 
+2804;Osmium Visor (WA) 
+2805;Osmium Visor (FS) 
+2788;Osmium Coat (FB) 
+2789;Osmium Coat (FA) 
+2794;Osmium Gloves (FB) 
+2795;Osmium Gloves (FA) 
+2800;Osmium Boots (FB) 
+2801;Osmium Boots (FA) 
+2806;Osmium Headgear (FB) 
+2807;Osmium Headgear (FA) 
+2790;Osmium Suit (BL) 
+2791;Osmium Suit (WI) 
+2796;Osmium Hands (BL) 
+2797;Osmium Hands (WI) 
+2802;Osmium Shoes (BL) 
+2803;Osmium Shoes (WI) 
+2808;Osmium Headpiece (BL) 
+2809;Osmium Headpiece (WI) 
+2810;Quartz Core (SIGMetal) 
+2811;Material Core (SIGMetal) 
+2812;Quartz Core (Epaulet) 
+2813;Material Core (Bike) 
+2814;Hunting KitN 
+2815;StakeN 
+2816;FedoraS 
+2817;HairS 
+2818;SirenN 
+2819;Invisible FabricS 
+2820;SackN 
+2821;FurS 
+2822;Highzard's Red HandS 
+2823;Bugzard's Red HandS 
+2824;Troglo's ClubS 
+2825;Mummy BladeS 
+2826;Phantom Walker's DaggerS 
+2827;Shade's SwordS 
+2828;Zombie's HammerS 
+2829;Hound TailS 
+2830;Golem HeadS 
+2831;Frog LegS 
+2832;SeafoodN 
+2833;Red ShellS 
+2834;Black PowderS 
+2835;Green BottleN 
+2836;FanN 
+2837;GatewayN 
+2838;CompassN 
+2839;Destruction Upgrade Potion 
+2840;DP Cube of Enchant 
+2841;DP Cube of Growth 
+2842;Potion of Luck 
+2843;Potion of Experience 
+2844;Potion of Skill 
+2845;Potion of Training 
+2846;Potion of Solidarity 
+2847;Potion of Honor 
+2848;Potion of Soul 
+2849;Potion of Courage 
+2850;Outpost Entry ItemN 
+2851;Outpost Capella TabletN 
+2852;Outpost Procyon TabletN 
+2853;Outpost General TabletN 
+2854;Cube of Experience (Low) 
+2855;Cube of Experience (Medium) 
+2856;Cube of Experience (High) 
+2857;Cube of Experience (Highest) 
+2858;Cube of Soul (Low) 
+2859;Cube of Soul (Medium) 
+2860;Cube of Soul (High) 
+2861;Cube of Soul (Highest) 
+2862;Cube of Enchant (Low) 
+2863;Cube of Enchant (Medium) 
+2864;Cube of Enchant (High) 
+2865;Cube of Enchant (Highest) 
+2866;Mander FigureS 
+2867;Giant SnakeN 
+2868;Green BraceletS 
+2869;Jewel1S 
+2870;StingS 
+2871;Japanese Ticket Circuit SilverS 
+2872;Japanese Ticket Circuit BronzeS 
+2873;spear1S 
+2874;eyeballS 
+2875;B.I. CertificateS 
+2876;D.S. CertificateS 
+2877;G.D. CertificateS 
+2878;Evolver 4 Grade (WA/FB/BL) 
+2879;Evolver 5 Grade (WA/FB/BL) 
+2880;Evolver 6 Grade (WA/FB/BL) 
+2881;Evolver 4 Grade(FS/FA/WI) 
+2882;Evolver 5 Grade (FS/FA/WI) 
+2883;Evolver 6 Grade(FS/FA/WI) 
+2884;Event_Graduation Cap (Black) 
+2885;Event_Graduation Cap (Gold) 
+2886;Event_Graduation Cap (Silver) 
+2887;Event_Number 0 
+2888;Event_Number 1 
+2889;Event_Number 2 
+2890;Event_Number 3 
+2891;Event_Number 4 
+2892;Event_Number 5 
+2893;Event_Number 6 
+2894;Event_Number 7 
+2895;Event_Number 8 
+2896;Event_Number 9 
+2897;Event_Back pack of Charisma Pan 
+2898;Event_Ice 
+2899;Event_Rose (Blue) 
+2900;Event_Rose (Green) 
+2901;Event_Rose (Pink) 
+2902;Event_Rose (Red) 
+2903;Event_Rose (Purple) 
+2904;Event_Rose (White) 
+2905;Event_Rose (Yellow) 
+2906;Event_Rose bundle (Blue) 
+2907;Event_Rose bundle (Green) 
+2908;Event_Rose bundle (Pink) 
+2909;Event_Rose bundle (Red) 
+2910;Event_Rose bundle (Purple) 
+2911;Event_Rose bundle (White) 
+2912;Event_Rose bundle (Yellow) 
+2913;Event_Platinum Badge 
+2914;Event_Beach Ball 
+2915;Event_Tube 
+2916;Event_Christmas Wreath 
+2917;Event_Christmas Ball (Green) 
+2918;Event_Christmas Ball (Yellow) 
+2919;Event_Christmas Ball (Red) 
+2920;Event_Christmas Ball (White) 
+2921;Orb of Alphabisco 
+2922;Orb of Licoreking 
+2923;Orb of Treiple 
+2924;Orb of Black Snake 
+2925;Orb of Bugreil 
+2926;Orb of Etoku 
+2927;Crystal of Alphabisco 
+2928;Crystal of Licoreking 
+2929;Crystal of Treiple 
+2930;Crystal of Black Snake 
+2931;Crystal of Bugreil 
+2932;Crystal of Etoku 
+2933;Katana of Alphabisco 
+2934;Katana of Licoreking 
+2935;Katana of Treiple 
+2936;Katana of Black Snake 
+2937;Katana of Bugreil 
+2938;Katana of Etoku 
+2939;Blade of Alphabisco 
+2940;Blade of Licoreking 
+2941;Blade of Treiple 
+2942;Blade of Black Snake 
+2943;Blade of Bugreil 
+2944;Blade of Etoku 
+2945;Daikatana of Alphabisco 
+2946;Daikatana of Licoreking 
+2947;Daikatana of Treiple 
+2948;Daikatana of Black Snake 
+2949;Daikatana of Bugreil 
+2950;Daikatana of Etoku 
+2951;Greatsword of Alphabisco 
+2952;Greatsword of Licoreking 
+2953;Greatsword of Treiple 
+2954;Greatsword of Black Snake 
+2955;Greatsword of Bugreil 
+2956;Greatsword of Etoku 
+2957;Plate of Devil Lynxhorn (FS) 
+2958;Plate of Devil Lynxhorn (WA) 
+2959;Plate of Mega Hound (FS) 
+2960;Plate of Mega Hound (WA) 
+2961;Plate of Pelcost (FS) 
+2962;Plate of Pelcost (WA) 
+2963;Coat of Troglo King (FA) 
+2964;Coat of Troglo King (FB) 
+2965;Coat of Spamaton (FA) 
+2966;Coat of Spamaton (FB) 
+2967;Coat of Crag King Crab (FA) 
+2968;Coat of Crag King Crab (FB) 
+2969;Suit of Fox Major (BL) 
+2970;Suit of Fox Major (WI) 
+2971;Suit of Comoarchite (BL) 
+2972;Suit of Comoarchite (WI) 
+2973;Suit of Entros (BL) 
+2974;Suit of Entros (WI) 
+2975;Gauntlet of Cold Triple (FS) 
+2976;Gauntlet of Cold Triple (WA) 
+2977;Gauntlet of Mega Hound (FS) 
+2978;Gauntlet of Mega Hound (WA) 
+2979;Gauntlet of Pelcost (FS) 
+2980;Gauntlet of Pelcost (WA) 
+2981;Gloves of Poki Triple (FA) 
+2982;Gloves of Poki Triple (FB) 
+2983;Gloves of Spamaton (FA) 
+2984;Gloves of Spamaton (FB) 
+2985;Gloves of Crag King Crab (FA) 
+2986;Gloves of Crag King Crab (FB) 
+2987;Hands of Teer Triple (BL) 
+2988;Hands of Teer Triple (WI) 
+2989;Hands of Comoarchite (BL) 
+2990;Hands of Comoarchite (WI) 
+2991;Hands of Entros (BL) 
+2992;Hands of Entros (WI) 
+2993;Greaves of Cold Triple (FS) 
+2994;Greaves of Cold Triple (WA) 
+2995;Greaves of Mega Hound (FS) 
+2996;Greaves of Mega Hound (WA) 
+2997;Greaves of Pelcost (FS) 
+2998;Greaves of Pelcost (WA) 
+2999;Boots of Poki Triple (FA) 
+3000;Boots of Poki Triple (FB) 
+3001;Boots of Spamaton (FA) 
+3002;Boots of Spamaton (FB) 
+3003;Boots of Crag King Crab (FA) 
+3004;Boots of Crag King Crab (FB) 
+3005;Shoes of Teer Triple (BL) 
+3006;Shoes of Teer Triple (WI) 
+3007;Shoes of Comoarchite (BL) 
+3008;Shoes of Comoarchite (WI) 
+3009;Shoes of Entros (BL) 
+3010;Shoes of Entros (WI) 
+3011;Visor of Devil Lynxhorn (FS) 
+3012;Visor of Devil Lynxhorn (WA) 
+3013;Visor of Mega Hound (FS) 
+3014;Visor of Mega Hound (WA) 
+3015;Visor of Pelcost (FS) 
+3016;Visor of Pelcost (WA) 
+3017;Headgear of Troglo King (FA) 
+3018;Headgear of Troglo King (FB) 
+3019;Headgear of Spamaton (FA) 
+3020;Headgear of Spamaton (FB) 
+3021;Headgear of Crag King Crab (FA) 
+3022;Headgear of Crag King Crab (FB) 
+3023;Headpiece of Fox Major (BL) 
+3024;Headpiece of Fox Major (WI) 
+3025;Headpiece of Comoarchite (BL) 
+3026;Headpiece of Comoarchite (WI) 
+3027;Headpiece of Entros (BL) 
+3028;Headpiece of Entros (WI) 
+3029;Ring of Garlelia 
+3030;Ring of Nippertrica 
+3031;Ring of Momento 
+3032;Ring of Golden Toad 
+3033;Ring of Kailth 
+3034;Ring of Babimadon 
+3035;Amulet of Galelia 
+3036;Amulet of Nippertrica 
+3037;Amulet of Momento 
+3038;Epaulet of Phantom Fera 
+3039;Epaulet of Black Hound 
+3040;Board Card of Phantom Fera 
+3041;Board card of Black Hound 
+3042;Earrings of Kailth 
+3043;Earrings of Babimadon 
+3044;Braclets of Kailth 
+3045;Braclets of Babimadon 
+3046;Belt of Golden Toad 
+3047;Pet - Angela 
+3048;Pet - Devil O' 
+3049;Pet - Draca 
+3050;Event_Base Ball 
+3051;Event_Basket Ball 
+3052;Event_Bowling Ball 
+3053;Event_Volley Ball 
+3054;Event_Ping-Pong Ball 
+3055;Event_Rugby Ball 
+3056;Event_Soccer Ball 
+3057;Event_Beer Mug 
+3058;Event_Cocktail Glass 
+3059;Event_Mug 
+3060;Event_Piece of Cake 
+3061;Event_Cup Cake 
+3062;Event_Large Cake 
+3063;Event_Ice Cream 
+3064;Event_Turkey 
+3065;Event_Egg 
+3066;Event_Fried Egg 
+3067;Event_Basket of Eggs 
+3068;Event_Dragon Egg 
+3069;Event_Broken Dragon Egg 
+3070;Event_Dragon Claw 
+3071;Event_Magic Wand 
+3072;Event_Broom 
+3073;Event_Cross 
+3074;Event_Chicken Leg 
+3075;Event_Bottled Letter 
+3076;Event_Ribbon 
+3077;Event_Giftbox 
+3078;Event_Candle 
+3079;Event_Candlestick 
+3080;Event_Gold medal 
+3081;Event_Silver medal 
+3082;Event_Bronze medal 
+3083;Event_Gold Trophy 
+3084;Event_Silver Trophy 
+3085;Event_Bronze Trophy 
+3086;Event_Earth 
+3087;Event_Fire 
+3088;Event_Wind 
+3089;Event_Water 
+3090;Event_Lighting 
+3091;Event_Snow 
+3092;[GM] Holy Water of Speed 
+3093;Holy Water of Traveler (30 min) 
+3094;Holy Water of Critical Strike (30 min) 
+3095;Holy Water of Fighter (30 min) 
+3096;Holy Water of Sage (30 min) 
+3097;Holy Water of Traveler (15 min) 
+3098;Holy Water of Critical Strike (15 min) 
+3099;Holy Water of Fighter (15 min) 
+3100;Holy Water of Sage (15 min) 
+3101;Saint's Forcecalibur 
+3102;Combination for Sealed Core (No.1) 
+3103;HP Potion (Lv. 4) 
+3104;MP Potion (Lv. 4) 
+3105;Fury Potion (Lv. 4) 
+3106;Life Capsule (Lv. 4) TypeA 
+3107;Life Capsule (Lv. 4) TypeB 
+3108;Bike Option Scroll (Low) 
+3109;Bike Option Scroll (Medium) 
+3110;Bike Option Scroll (High) 
+3111;Bike Option Scroll (Highest) 
+3112;Chaos Box - Slot Extender 
+3113;Chaos Box - Epaulet of Fighter 
+3114;Chaos Box - Epaulet of Sage 
+3115;Chaos Box - Epaulet of Guardian 
+3116;Chaos Box - Upgrade Item 
+3117;Chaos Box - Classic Avatar 
+3118;Chaos Box - Premium Avatar 
+3119;Giftbox - SIGMetal Epaulet of Fighter +7 (10 Days) 
+3120;Giftbox - SIGMetal Epaulet of Fighter +7 (30 Days) 
+3121;Giftbox - SIGMetal Epaulet of Fighter +7 (90 Days) 
+3122;Giftbox - SIGMetal Epaulet of Sage +7 (10 Days) 
+3123;Giftbox - SIGMetal Epaulet of Sage +7 (30 Days) 
+3124;Giftbox - SIGMetal Epaulet of Sage +7 (90 Days) 
+3125;Giftbox - SIGMetal Epaulet of Guardian +7 (10 Days) 
+3126;Giftbox - SIGMetal Epaulet of Guardian +7 (30 Days) 
+3127;Giftbox - SIGMetal Epaulet of Guardian +7 (90 Days) 
+3128;Astral Bike Card - Crystal Blue 
+3129;Astral Bike Card - Crystal RW3 
+3130;Astral Bike Card - Red Flare 
+3131;Astral Bike Card - Blue Flare 
+3132;Mixture (Lv. 1) 
+3133;Mixture (Lv. 2) 
+3134;Sword Damage Amplifier (Lv. 1) 
+3135;Sword Damage Amplifier (Lv. 2) 
+3136;Magic Damage Amplifier (Lv. 1) 
+3137;Magic Damage Amplifier (Lv. 2) 
+3138;Nevareth Biker 
+3139;Epaulet of Nevareth Biker 
+3140;Giftbox - Nevareth Biker 
+3141;Biker Bandana 
+3142;Cap of Nevareth Biker 
+3143;Giftbox - Biker Bandana 
+3144;Cube of Challenge 
+3145;Lightsaber - Orb/Crystal 
+3146;Lightsaber - Katana/Daikatana 
+3147;Lightsaber - Blade/Greatsword 
+3148;Hellforged - Orb/Crystal 
+3149;Hellforged - Katana/Daikatana 
+3150;Hellforged - Blade/Greatsword 
+3151;Giftbox - Lightsaber - Orb/Crystal 
+3152;Giftbox - Lightsaber - Katana/Daikatana 
+3153;Giftbox - Lightsaber - Blade/Greatsword 
+3154;Giftbox - Hellforged - Orb/Crystal 
+3155;Giftbox - Hellforged - Katana/Daikatana 
+3156;Giftbox - Hellforged - Blade/Greatsword 
+3157;Giftbox - Fresh from the Sea - Orb/Crystal 
+3158;Giftbox - Fresh from the Sea - Katana/Daikatana 
+3159;Giftbox - Fresh from the Sea - Blade/Great Sword 
+3160;Giftbox - Festival - Orb/Crystal 
+3161;Giftbox - Festival - Katana/Daikatana 
+3162;Giftbox - Festival - Blade/Great Sword 
+3163;Giftbox - Astral Board Card - X Yellow 
+3164;Giftbox - Astral Board Card - Zero Black 
+3165;Giftbox - Astral Board Card - Zero Silver 
+3166;Dummy Lotto 
+3167;Hat Rack 
+3168;Weapon Storage Box 
+3169;Board Card Case 
+3170;Gem of Infinite Summons (Normal) 
+3171;Gem of Infinite Summons (Rare) 
+3172;Gem of Infinite Summons (Epic) 
+3173;Gem of Infinite Summons (Unique) 
+3174;Bike Coating Kit (Crystal RW) 
+3175;Leap of Hero 
+3176;Inexhaustible HP Potion(Lv. 1) 
+3177;Inexhaustible HP Potion(Lv. 2) 
+3178;Inexhaustible HP Potion(Lv. 3) 
+3179;Inexhaustible MP Potion(Lv. 1) 
+3180;Inexhaustible MP Potion(Lv. 2) 
+3181;Inexhaustible MP Potion(Lv. 3) 
+3182;Inexhaustible HP Potion(Lv. 4) 
+3183;Inexhaustible MP Potion(Lv. 4) 
+3184;Killian's Ring 
+3185;Black Cat's Tear 
+3186;Limbic Tonsil Cell 
+3187;Killian's Ring Craft Recipe 
+3188;Quest Capsule No. 1 
+3189;Quest Capsule No. 2 
+3190;Quest Capsule No. 3 
+3191;DP Saver 
+3192;AP Saver 
+3193;Critical Ring +3 
+3194;Ring of Luck +3 
+3195;Quest Capsule No. 4 
+3196;Quest Capsule No. 5 
+3197;Quest Capsule No. 6 
+3198;Quest Capsule No. 7 
+3199;Quest Capsule No. 8 
+3200;Quest Capsule No. 9 
+3201;Quest Capsule No. 10 
+3202;Quest Capsule No. 11 
+3203;Quest Capsule No. 12 
+3204;Quest Capsule No. 13 
+3205;Quest Capsule No. 14 
+3206;Quest Capsule No. 15 
+3207;Quest Capsule No. 16 
+3208;Quest Capsule No. 17 
+3209;Quest Capsule No.18 
+3210;Quest Capsule No.19 
+3211;Quest Capsule No.20 
+3212;Quest Capsule No.21 
+3213;Quest Capsule No.22 
+3214;Quest Capsule No.23 
+3215;Quest Capsule No.24 
+3216;Quest Capsule No.25 
+3217;Quest Capsule No.26 
+3218;Quest Capsule No.27 
+3219;Quest Capsule No.28 
+3220;Quest Capsule No.29 
+3221;Quest Capsule No.30 
+3222;Quest Capsule No.31 
+3223;Quest Capsule No.32 
+3224;Quest Capsule No.33 
+3225;Quest Capsule No.34 
+3226;Quest Capsule No.35 
+3227;Cube of Honor (Lv. 1) 
+3228;Cube of Honor (Lv. 2) 
+3229;Cube of Honor (Lv. 3) 
+3230;Epaulet Option Spell Scroll (High) 
+3231;Epaulet Option Spell Scroll (Highest) 
+3232;Druga (Normal) 
+3233;Druga (Rare) 
+3234;Druga (Epic) 
+3235;Druga (Unique) 
+3236;Syarsor (Normal) 
+3237;Syarsor (Rare) 
+3238;Syarsor (Epic) 
+3239;Syarsor (Unique) 
+3240;Angelo (Normal) 
+3241;Angelo (Rare) 
+3242;Angelo (Epic) 
+3243;Angelo (Unique) 
+3244;Lamp of Dazzlement (Lv. 1) 
+3245;Lamp of Dazzlement (Lv. 2) 
+3246;Lamp of Dazzlement (Lv. 3) 
+3247;Lamp of Dazzlement (Lv. 4) 
+3248;Magic Water of Purification 
+3249;[Costume] BattleMode 3 Armor 
+3250;[Costume] BattleMode 3 Martial 
+3251;[Costume] BattleMode 3 Battle 
+3252;[Costume] BattleMode 3 Visor 
+3253;[Costume] BattleMode 3 Headpiece 
+3254;[Costume] BattleMode 3 Headgear 
+3255;Battle Mode 3 Armor 
+3256;Battle Mode 3 Martial 
+3257;Battle Mode 3 Battle 
+3258;Battle Mode 3 Visor 
+3259;Battle Mode 3 Headpiece 
+3260;Battle Mode 3 Headgear 
+3261;Skill Book (Axe Destroyer) 
+3262;Skill Book (Axe Specialty Stage 2) 
+3263;Skill Book (Axe Specialty Stage 3) 
+3264;Skill Book (Knucklet Striker) 
+3265;Skill Book (Knucklet Specialty Stage 2) 
+3266;Skill Book (Knucklet Specialty Stage 3) 
+3267;Skill Book (Elemental Dominator) 
+3268;Skill Book (Elemental Specialty Stage 2) 
+3269;Skill Book (Elemental Specialty Stage 3) 
+3270;Skill Book (Launcher Punisher) 
+3271;Skill Book (Launcher Specialty Stage 2) 
+3272;Skill Book (Launcher Specialty Stage 3) 
+3273;Skill Book (Hammer Crusher) 
+3274;Skill Book (Hammer Specialty Stage 2) 
+3275;Skill Book (Hammer Specialty Stage 3) 
+3276;Skill Book (Sword Splitter) 
+3277;Skill Book (Split Specialty Stage 2) 
+3278;Skill Book (Split Specialty Stage 3) 
+3279;Minesta Training Book Chapter 1 
+3280;Minesta Training Book Chapter 2 
+3281;Minesta Training Book Chapter 3 
+3282;Minesta Training Book Chapter 4 
+3283;Minesta Training Book Chapter 5 
+3284;Minesta Training Book Chapter 6 
+3285;Minesta Training Book Chapter 7 
+3286;Minesta Training Book Chapter 8 
+3287;Minesta Training Book Chapter 9 
+3288;Minesta Training Book Chapter 10 
+3289;Minesta Training Book Chapter 11 
+3290;Minesta Training Book Chapter 12 
+3291;Minesta Training Book Chapter 13 
+3292;Minesta Training Book Chapter 14 
+3293;Minesta Training Book Chapter 15 
+3294;Minesta Training Book Chapter 16 
+3295;Minesta Training Book Chapter 17 
+3296;Minesta Training Book Chapter 18 
+3297;Minesta Training Book Chapter 19 
+3298;Minesta Training Book Chapter 20 
+3299;Minesta Training Book Chapter 21 
+3300;Minesta Training Book Chapter 22 
+3301;Minesta Training Book Chapter 23 
+3302;Minesta Training Book Chapter 24 
+3303;Minesta Training Book Chapter 25 
+3304;Minesta Training Book Chapter 26 
+3305;Minesta Training Book Chapter 27 
+3306;Minesta Training Book Chapter 28 
+3307;Minesta Training Book Chapter 29 
+3308;Minesta Training Book Chapter 30 
+3309;Minesta Training Book Chapter 31 
+3310;Minesta Craft Stone - Lv.1 (WA) 
+3311;Minesta Craft Stone - Lv.2 (WA) 
+3312;Minesta Craft Stone - Lv.3 (WA) 
+3313;Minesta Craft Stone - Lv.1 (BL) 
+3314;Minesta Craft Stone - Lv.2 (BL) 
+3315;Minesta Craft Stone - Lv.3 (BL) 
+3316;Minesta Craft Stone - Lv.1 (WI) 
+3317;Minesta Craft Stone - Lv.2 (WI) 
+3318;Minesta Craft Stone - Lv.3 (WI) 
+3319;Minesta Craft Stone - Lv.1 (FA) 
+3320;Minesta Craft Stone - Lv.2 (FA) 
+3321;Minesta Craft Stone - Lv.3 (FA) 
+3322;Minesta Craft Stone - Lv.1 (FS) 
+3323;Minesta Craft Stone - Lv.2 (FS) 
+3324;Minesta Craft Stone - Lv.3 (FS) 
+3325;Minesta Craft Stone - Lv.1 (FB) 
+3326;Minesta Craft Stone - Lv.2 (FB) 
+3327;Minesta Craft Stone - Lv.3 (FB) 
+3328;Potion of Honor (Lv. 1) 
+3329;Potion of Honor (Lv. 2) 
+3330;Potion of Honor (Lv. 3) 
+3331;Blessing Bead - GPS Warp  +   
+3332;Yekaterina Membership   +   
+3333;Blessing Bead - Warehouse (No. 5) 
+3334;Blessing Bead - Warehouse (No. 6) 
+3335;Blessing Bead - Warehouse (No. 7) 
+3336;Blessing Bead - Warehouse (No. 8) 
+3337;Pet Untrain Kit - Option 
+3338;Guild Name Card 
+3339;Core Superior (Low) 
+3340;Core Superior (Medium) 
+3341;Core Superior (High) 
+3342;Core Superior (Highest) 
+3343;Prideus' Bracelet 
+3344;Extract Potion - Medium (STR)  -    
+3345;Extract Potion - Medium (DEX)  -    
+3346;Extract Potion - Medium (INT)  -    
+3347;Blessing Bead - Craft Success Rate (10%) 
+3348;Blessing Bead - Craft Success Rate (25%) 
+3349;Blessing Bead - Craft Success Rate (40%) 
+3350;Blessing Bead - Craft Success Rate (50%) 
+3351;Blessing Bead - Craft Success Rate (100%) 
+3352;Vital Gear (Lv. 1) 
+3353;Vital Gear (Lv. 2) 
+3354;Vital Gear (Lv. 3) 
+3355;Change Kit(Hair Style) - Charming 
+3356;Pet - Alpa 
+3357;Pet - Alca 
+3358;Pet - Paca 
+3359;Pet - Alpaca 
+3360;Pet - Claris 
+3361;Pet - May 
+3362;Pet - Skeleton 
+3363;Pet - Dexpita 
+3364;Pet - Pirate Parrot 
+3365;Pet - Pirate Monkey 
+3366;Pet - Dancing Lion 
+3367;Bloody Skeleton - Orb/Crystal 
+3368;Bloody Skeleton - Katana/Daikatana 
+3369;Bloody Skeleton - Blade/GreatSword 
+3370;Gift Box - Blood Skeleton - Orb/Crystal 
+3371;Gift Box - Blood Skeleton - Katana/Daikatana 
+3372;Gift Box - Blood Skeleton - Blade/GreatSword 
+3373;Electronica - Orb/Crystal 
+3374;Electronica - Katana/Daikatana 
+3375;Electronica - Blade/GreatSword 
+3376;Gift Box - Electronica - Orb/Crystal 
+3377;Gift Box - Electronica - Katana/Daikatana 
+3378;Gift Box - Electronica - Blade/GreatSword 
+3379;Rune - Critical Rate 
+3380;Bracelet Of Fighter +8 
+3381;Bracelet Of Sage +8 
+3382;Earring of Guard +8 
+3383;Vampiric Earring +8 
+3384;Leth Tyrant in Awakening 
+3385;Tempus' Ring 
+3386;Epaulet - Beach Party 
+3387;Epaulet - Nurse Costume 
+3388;Epaulet - Hillus Police 
+3389;Epaulet - Hillus Assasin 
+3390;Epaulet - Aodai Costume 
+3391;Epaulet - Red Devil 
+3392;Epaulet - Wedding Ceremony 
+3393;Epaulet - Welcome to Nightmare 
+3394;Epaulet - DJ's 
+3395;[Costume] - Beach Party 
+3396;[Costume] - Nurse Costume 
+3397;[Costume] - Hillus Police 
+3398;[Costume] - Hillus Assasin 
+3399;[Costume] - Aodai Costume 
+3400;[Costume] - Red Devil 
+3401;[Costume] - Wedding Ceremony 
+3402;[Costume] - Welcome to Nightmare 
+3403;[Costume] - DJ's 
+3404;[Costume] - Purify 
+3405;Giftbox - Beach Party 
+3406;Giftbox - Nurse Costume 
+3407;Giftbox - Hillus Police 
+3408;Giftbox - Hillus Assasin 
+3409;Giftbox - Aodai Costume 
+3410;Giftbox - Red Devil 
+3411;Giftbox - Wedding Ceremony 
+3412;Giftbox - Welcome to Nightmare 
+3413;Giftbox - DJ's 
+3414;Giftbox - Purify 
